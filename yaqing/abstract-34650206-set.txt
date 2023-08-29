@@ -1,0 +1,2831 @@
+1. Mol Psychiatry. 2022 Feb;27(2):1031-1046. doi: 10.1038/s41380-021-01341-5. Epub 
+2021 Oct 14.
+
+The dopamine transporter gene SLC6A3: multidisease risks.
+
+Reith MEA(#)(1), Kortagere S(#)(2), Wiers CE(#)(3)(4), Sun H(3), Kurian MA(5), 
+Galli A(6), Volkow ND(3)(7), Lin Z(8).
+
+Author information:
+(1)Department of Psychiatry, New York University School of Medicine, New York 
+City, NY, 10016, USA.
+(2)Department of Microbiology and Immunology, Drexel University College of 
+Medicine, Philadelphia, PA, 19129, USA.
+(3)Laboratory of Neuroimaging, National Institute on Alcohol Abuse and 
+Alcoholism, Bethesda, MD, 20817, USA.
+(4)Department of Psychiatry, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA, 19104, USA.
+(5)Molecular Neurosciences, Developmental Neurosciences, Zayed Centre for 
+Research into Rare Diseases in Children, UCL Great Ormond Street Institute of 
+Child Health, and Department of Neurology, Great Ormond Street Hospital, London, 
+WC1N 1EH, UK.
+(6)Department of Surgery, University of Alabama at Birmingham, Birmingham, AL, 
+35294, USA.
+(7)National Institute on Drug Abuse, Bethesda, MD, 20817, USA.
+(8)Laboratory of Psychiatric Neurogenomics, McLean Hospital, and Department of 
+Psychiatry, Harvard Medical School, Belmont, MA, 02478, USA. 
+zlin@mclean.harvard.edu.
+(#)Contributed equally
+
+The human dopamine transporter gene SLC6A3 has been consistently implicated in 
+several neuropsychiatric diseases but the disease mechanism remains elusive. In 
+this risk synthesis, we have concluded that SLC6A3 represents an increasingly 
+recognized risk with a growing number of familial mutants associated with 
+neuropsychiatric and neurological disorders. At least five loci were related to 
+common and severe diseases including alcohol use disorder (high activity 
+variant), attention-deficit/hyperactivity disorder (low activity variant), 
+autism (familial proteins with mutated networking) and movement disorders (both 
+regulatory variants and familial mutations). Association signals depended on 
+genetic markers used as well as ethnicity examined. Strong haplotype selection 
+and gene-wide epistases support multimarker assessment of functional variations 
+and phenotype associations. Inclusion of its promoter region's functional 
+markers such as DNPi (rs67175440) and 5'VNTR (rs70957367) may help delineate 
+condensate-based risk action, testing a locus-pathway-phenotype hypothesis for 
+one gene-multidisease etiology.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41380-021-01341-5
+PMCID: PMC9008071
+PMID: 34650206 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+2. Nat Neurosci. 2021 Oct;24(10):1367-1376. doi: 10.1038/s41593-021-00908-3. Epub 
+2021 Aug 26.
+
+Multivariate analysis of 1.5 million people identifies genetic associations with 
+traits related to self-regulation and addiction.
+
+Karlsson Linnér R(#)(1), Mallard TT(#)(2), Barr PB(#)(3), Sanchez-Roige 
+S(#)(4)(5), Madole JW(2), Driver MN(6), Poore HE(7), de Vlaming R(1), Grotzinger 
+AD(2), Tielbeek JJ(8), Johnson EC(9), Liu M(10), Rosenthal SB(11), Ideker T(12), 
+Zhou H(13)(14), Kember RL(15)(16), Pasman JA(17), Verweij KJH(18), Liu 
+DJ(19)(20), Vrieze S(10); COGA Collaborators; Kranzler HR(15)(16), Gelernter 
+J(13)(14)(21)(22), Harris KM(23)(24), Tucker-Drob EM(2)(25), Waldman ID(7)(26), 
+Palmer AA(4)(27), Harden KP(2)(25), Koellinger PD(28)(29), Dick DM(30)(31).
+
+Collaborators: Porjesz B, Hesselbrock V, Foroud TM, Agrawal A, Edenberg HJ, 
+Nurnberger JI Jr, Liu Y, Kuperman S, Kramer J, Meyer JL, Kamarajan C, Pandey AK, 
+Bierut L, Rice J, Bucholz KK, Schuckit MA, Tischfield J, Brooks A, Hart RP, 
+Almasy L, Dick DM, Salvatore JE, Goate A, Kapoor M, Slesinger P, Scott DM, Bauer 
+L, Wetherill L, Xuei X, Lai D, O'Connor SJ, Plawecki MH, Lourens S, Acion L, 
+Chan G, Chorlian DB, Zhang J, Kinreich S, Pandey G, Chao MJ, Anokhin AP, 
+McCutcheon VV, Saccone S, Aliev F, Barr PB, Chin H, Parsian A.
+
+Author information:
+(1)Department of Economics, Vrije Universiteit Amsterdam, Amsterdam, the 
+Netherlands.
+(2)Department of Psychology, University of Texas at Austin, Austin, TX, USA.
+(3)Department of Psychology, Virginia Commonwealth University, Richmond, VA, 
+USA.
+(4)Department of Psychiatry, University of California San Diego, La Jolla, CA, 
+USA.
+(5)Division of Genetic Medicine, Vanderbilt University Medical Center, 
+Nashville, TN, USA.
+(6)Department of Human and Molecular Genetics, Virginia Commonwealth University, 
+Richmond, VA, USA.
+(7)Department of Psychology, Emory University, Atlanta, GA, USA.
+(8)Department of Complex Trait Genetics, Vrije Universiteit Amsterdam, 
+Amsterdam, the Netherlands.
+(9)Department of Psychiatry, Washington University School of Medicine, Saint 
+Louis, MO, USA.
+(10)Department of Psychology, University of Minnesota, Minneapolis, MN, USA.
+(11)Center for Computational Biology and Bioinformatics, Department of Medicine, 
+University of California San Diego, La Jolla, CA, USA.
+(12)Department of Medicine, University of California San Diego, La Jolla, CA, 
+USA.
+(13)Department of Psychiatry, Yale University School of Medicine, West Haven, 
+CT, USA.
+(14)Department of Psychiatry, VA CT Healthcare System, West Haven, CT, USA.
+(15)Center for Studies of Addiction, University of Pennsylvania School of 
+Medicine, Philadelphia, PA, USA.
+(16)Mental Illness Research Education and Clinical Center, Crescenz VA Medical 
+Center, Philadelphia, PA, USA.
+(17)Behavioural Science Institute, Radboud University Nijmegen, Nijmegen, the 
+Netherlands.
+(18)Department of Psychiatry, Amsterdam UMC, University of Amsterdam, Amsterdam, 
+the Netherlands.
+(19)Department of Public Health Sciences, Penn State University, Hershey, PA, 
+USA.
+(20)Institute of Personalized Medicine, Penn State University, Hershey, PA, USA.
+(21)Department of Genetics, Yale University School of Medicine, West Haven, CT, 
+USA.
+(22)Department of Neuroscience, Yale University School of Medicine, West Haven, 
+CT, USA.
+(23)Department of Sociology, University of North Carolina at Chapel Hill, Chapel 
+Hill, NC, USA.
+(24)Carolina Population Center, University of North Carolina at Chapel Hill, 
+Chapel Hill, NC, USA.
+(25)Population Research Center, University of Texas at Austin, Austin, TX, USA.
+(26)Center for Computational and Quantitative Genetics, Emory University, 
+Atlanta, GA, USA.
+(27)Institute for Genomic Medicine, University of California San Diego, La 
+Jolla, CA, USA.
+(28)Department of Economics, Vrije Universiteit Amsterdam, Amsterdam, the 
+Netherlands. koellinger@wisc.edu.
+(29)La Follette School of Public Affairs, University of Wisconsin-Madison, 
+Madison, WI, USA. koellinger@wisc.edu.
+(30)Department of Psychology, Virginia Commonwealth University, Richmond, VA, 
+USA. ddick@vcu.edu.
+(31)Department of Human and Molecular Genetics, Virginia Commonwealth 
+University, Richmond, VA, USA. ddick@vcu.edu.
+(#)Contributed equally
+
+Behaviors and disorders related to self-regulation, such as substance use, 
+antisocial behavior and attention-deficit/hyperactivity disorder, are 
+collectively referred to as externalizing and have shared genetic liability. We 
+applied a multivariate approach that leverages genetic correlations among 
+externalizing traits for genome-wide association analyses. By pooling data from 
+~1.5 million people, our approach is statistically more powerful than 
+single-trait analyses and identifies more than 500 genetic loci. The loci were 
+enriched for genes expressed in the brain and related to nervous system 
+development. A polygenic score constructed from our results predicts a range of 
+behavioral and medical outcomes that were not part of genome-wide analyses, 
+including traits that until now lacked well-performing polygenic scores, such as 
+opioid use disorder, suicide, HIV infections, criminal convictions and 
+unemployment. Our findings are consistent with the idea that persistent 
+difficulties in self-regulation can be conceptualized as a neurodevelopmental 
+trait with complex and far-reaching social and health correlates.
+
+© 2021. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41593-021-00908-3
+PMCID: PMC8484054
+PMID: 34446935 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests Dr. Kranzler is a member of 
+the American Society of Clinical Psychopharmacology’s Alcohol Clinical Trials 
+Initiative, which was supported in the last three years by AbbVie, Alkermes, 
+Ethypharm, Indivior, Lilly, Lundbeck, Otsuka, Pfizer, Arbor, and Amygdala 
+Neurosciences. Drs. Kranzler and Gelernter are named as inventors on PCT patent 
+application #15/878,640 entitled: “Genotype-guided dosing of opioid agonists,” 
+filed January 24, 2018. Dr. Gelernter did paid editorial work for the journal 
+Complex Psychiatry. Authors declare no other competing interests.
+
+
+3. Nat Commun. 2022 Jan 10;13(1):51. doi: 10.1038/s41467-021-27598-6.
+
+Polygenic contribution to the relationship of loneliness and social isolation 
+with schizophrenia.
+
+Andreu-Bernabeu Á(#)(1)(2), Díaz-Caneja CM(1)(2)(3)(4), Costas J(5), De Hoyos 
+L(1)(2), Stella C(1)(2), Gurriarán X(1)(2)(5), Alloza C(1)(2), Fañanás L(3)(6), 
+Bobes J(3)(7), González-Pinto A(3)(8), Crespo-Facorro B(3)(9), Martorell 
+L(3)(10), Vilella E(3)(10), Muntané G(3)(10), Nacher J(3)(11), Molto 
+MD(3)(12)(13), Aguilar EJ(3)(13)(14), Parellada M(1)(2)(3)(4), Arango 
+C(1)(2)(3)(4), González-Peñas J(#)(15)(16)(17).
+
+Author information:
+(1)Department of Child and Adolescent Psychiatry, Institute of Psychiatry and 
+Mental Health, Hospital General Universitario Gregorio Marañón, Madrid, Spain.
+(2)Instituto de Investigación Sanitaria Gregorio Marañón (IiSGM), Madrid, Spain.
+(3)CIBERSAM, Centro Investigación Biomédica en Red Salud Mental, Madrid, Spain.
+(4)School of Medicine, Universidad Complutense, Madrid, Spain.
+(5)Instituto de Investigación Sanitaria (IDIS) de Santiago de Compostela, 
+Complexo Hospitalario Universitario de Santiago de Compostela (CHUS), Servizo 
+Galego de Saúde (SERGAS), Santiago de Compostela, Galicia, Spain.
+(6)Department of Evolutionary Biology, Ecology and Environmental Sciences, 
+Faculty of Biology, University of Barcelona, Barcelona, Spain.
+(7)Faculty of Medicine and Health Sciences-Psychiatry, Universidad de Oviedo, 
+ISPA, INEUROPA, Oviedo, Spain.
+(8)BIOARABA Health Research Institute, OSI Araba, University Hospital, 
+University of the Basque Country, Vitoria, Spain.
+(9)Hospital Universitario Virgen del Rocío, Department of Psychiatry, 
+Universidad de Sevilla, Sevilla, Spain.
+(10)Hospital Universitari Institut Pere Mata, IISPV, Universitat Rovira i 
+Virgili, Reus, Spain.
+(11)Neurobiology Unit, Department of Cell Biology, Interdisciplinary Research 
+Structure for Biotechnology and Biomedicine (BIOTECMED), University of Valencia, 
+Valencia, 46100, Spain.
+(12)Department of Genetics, University of Valencia, Campus of Burjassot, 
+Valencia, Spain.
+(13)Department of Medicine, Universitat de València, Valencia, Spain.
+(14)Fundación Investigación Hospital Clínico de Valencia, INCLIVA, 46010, 
+Valencia, Spain.
+(15)Department of Child and Adolescent Psychiatry, Institute of Psychiatry and 
+Mental Health, Hospital General Universitario Gregorio Marañón, Madrid, Spain. 
+javier.gonzalez@iisgm.com.
+(16)Instituto de Investigación Sanitaria Gregorio Marañón (IiSGM), Madrid, 
+Spain. javier.gonzalez@iisgm.com.
+(17)CIBERSAM, Centro Investigación Biomédica en Red Salud Mental, Madrid, Spain. 
+javier.gonzalez@iisgm.com.
+(#)Contributed equally
+
+Previous research suggests an association of loneliness and social isolation 
+(LNL-ISO) with schizophrenia. Here, we demonstrate a LNL-ISO polygenic score 
+contribution to schizophrenia risk in an independent case-control sample 
+(N = 3,488). We then subset schizophrenia predisposing variation based on its 
+effect on LNL-ISO. We find that genetic variation with concordant effects in 
+both phenotypes shows significant SNP-based heritability enrichment, higher 
+polygenic contribution in females, and positive covariance with mental disorders 
+such as depression, anxiety, attention-deficit hyperactivity disorder, alcohol 
+dependence, and autism. Conversely, genetic variation with discordant effects 
+only contributes to schizophrenia risk in males and is negatively correlated 
+with those disorders. Mendelian randomization analyses demonstrate a plausible 
+bi-directional causal relationship between LNL-ISO and schizophrenia, with a 
+greater effect of LNL-ISO liability on schizophrenia than vice versa. These 
+results illustrate the genetic footprint of LNL-ISO on schizophrenia.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41467-021-27598-6
+PMCID: PMC8748758
+PMID: 35013163 [Indexed for MEDLINE]
+
+Conflict of interest statement: C.A has been a consultant to or has received 
+honoraria or grants from Acadia, Angelini, Gedeon Richter, Janssen Cilag, 
+Lundbeck, Minerva, Otsuka, Roche, Sage, Servier, Shire, Schering Plough, 
+Sumitomo Dainippon Pharma, Sunovion, and Takeda. B.C.-F. has received honoraria 
+(advisory board and educational lectures) and travel expenses from Takeda, 
+Menarini, Angelini, Teva, Otsuka, Lundbeck, and Johnson & Johnson. He has also 
+received unrestricted research grants from Lundbeck. Xaquín Gurriarán has 
+received a grant from Fundación Instituto Roche. C.M.D.-C. has received 
+honoraria from AbbVie, Sanofi, and Exeltis. The rest of the authors declare no 
+competing interests.
+
+
+4. J Atten Disord. 2013 Feb;17(2):98-101. doi: 10.1177/1087054711427400. Epub 2011 
+Nov 18.
+
+Are some individuals diagnosed with ADHD prone to alcohol abuse? Consideration 
+of two possible mediating factors for this susceptibility.
+
+Maxwell A(1).
+
+Author information:
+(1)Carleton University, Ottawa, Ontario, Canada. amaxwel2@connect.carleton.ca
+
+Some studies conducted on ADHD have found a statistically significant 
+relationship between those diagnosed with the disorder and a higher 
+susceptibility to abuse alcohol. However, other studies have found no such 
+correlation, or have found this to be true of only a nonstatistically 
+significant subset of the population of individuals with ADHD. This research 
+found an answer to what may be causing these discrepancies in findings. Various 
+studies on ADHD have discovered both biological and cognitive differences in 
+some individuals with ADHD that may be responsible for this predisposition 
+toward alcohol abuse found in a subset of the ADHD population. It is proposed 
+that those individuals diagnosed with ADHD who also have a mutation in the 
+dopamine receptor D4 (DRD4) and who possess a deficiency in functionality of the 
+prefrontal area of the brain designed for planning and reasoning may be more 
+likely to develop alcohol abuse.
+
+DOI: 10.1177/1087054711427400
+PMID: 22100688 [Indexed for MEDLINE]
+
+
+5. Atomoxetine Therapy and CYP2D6 Genotype.
+
+Dean L(1).
+
+In: Pratt VM(2), Scott SA(3)(4), Pirmohamed M(5)(6)(7)(8), Esquivel B(9)(10), 
+Kattman BL(11), Malheiro AJ(12), editors. Medical Genetics Summaries [Internet]. 
+Bethesda (MD): National Center for Biotechnology Information (US); 2012–.
+2015 Sep 10 [updated 2020 Jun 29].
+
+Author information:
+(1)NCBI
+(2)Director, Pharmacogenomics and Molecular Genetics Laboratories, Professor, 
+Medical and Molecular Genetics, Indiana University School of Medicine, 
+Indianapolis, IN 46202
+(3)Professor, Department of Pathology Stanford University, Palo Alto, CA 94305
+(4)Director, Stanford Medicine Clinical Genomics Laboratory, Stanford, CA 94305
+(5)David Weatherall Chair of Medicine and UK National Health Service Chair of 
+Pharmacogenetics, University of Liverpool, Liverpool, UK
+(6)Director, MRC Centre for Drug Safety Science and Wolfson Centre for 
+Personalized Medicine, University of Liverpool, Liverpool, UK
+(7)Director, Health Data Research UK North, Liverpool, UK
+(8)President, British Pharmacological Society, London, UK
+(9)President of the Latin American Association of Personalized Medicine,
+(10)Chief Medical Officer - OneOme, Minneapolis, MN
+(11)Chief, Medical Genetics and Human Variation, National Center for 
+Biotechnology Information (NCBI), National Library of Medicine, National 
+Institutes of Health, Bethesda, MD 20894
+(12)Project Lead, Medical Genetics and Human Variation, National Center for 
+Biotechnology Information (NCBI), National Library of Medicine, National 
+Institutes of Health, Bethesda, MD 20894
+
+Atomoxetine (brand name Strattera) is a non-stimulant drug used in the treatment 
+of attention-deficit hyperactivity disorder (ADHD). It is a selective 
+noradrenaline reuptake inhibitor (SNRI) and is approved for children aged 6 and 
+older, adolescents, and adults. Atomoxetine is part of a treatment plan for ADHD 
+that may include other measures such as psychological, educational, and social 
+support. Because atomoxetine is not a stimulant or a controlled substance it may 
+be used in individuals with tics or other side effects associated with 
+stimulants, and in individuals who have a substance abuse problem (or have a 
+family member with a substance abuse problem). The most common side effects 
+associated with atomoxetine therapy include weight loss, abdominal pain, 
+headache, dizziness, fatigue, and irritability. In addition, atomoxetine has a 
+boxed warning on the increased risk of suicidal ideation in children and 
+adolescents treated with atomoxetine. The CYP2D6 enzyme is involved in the 
+metabolism of atomoxetine (and a quarter of all prescribed drugs). Individuals 
+who lack CYP2D6 activity (“poor metabolizers”) will have increased levels of 
+atomoxetine and an increased risk of side effects compared with CYP2D6 normal 
+metabolizers. Approximately 7% of Caucasians are CYP2D6 poor metabolizers. The 
+drug label states that for known CYP2D6 poor metabolizers, the initial dose 
+should only be increased to the usual target dose if symptoms fail to improve 
+after 4 weeks and the initial dose is well tolerated (1). Atomoxetine dosing 
+should be adjusted for individuals who are CYP2D6 poor metabolizers, individuals 
+who are taking a strong CYP2D6 inhibitor (e.g., paroxetine, fluoxetine, and 
+quinidine), and individuals with moderate or severe hepatic impairment. However, 
+different authorities have different dosing recommendations. The Royal Dutch 
+Association for the Advancement of Pharmacy (KNMP) Dutch Pharmacogenetics 
+Working Group (DPWG) provides dosing recommendations for poor, intermediate and 
+ultrarapid metabolizers. For poor metabolizers, DPWG recommends starting with 
+the standard initial dose and to consult a care provider if side effects occur. 
+If the medicine is effective, but side effects occur, DPWG recommends reducing 
+the dose and monitoring efficacy (2). The Clinical Pharmacogenetics 
+Implementation Consortium (CPIC) also provide recommendations for different 
+CYP2D6 metabolizer phenotypes. For CYP2D6 poor metabolizers, CPIC recommends 
+that if no clinical response is observed after 2 weeks of atomoxetine therapy, 
+then a plasma concentration exposure check be used with an individual’s CYP2D6 
+genotype to help clinicians guide dose selection and titration (3).
+
+PMID: 28520366
+
+
+6. Nat Neurosci. 2018 Dec;21(12):1656-1669. doi: 10.1038/s41593-018-0275-1. Epub 
+2018 Nov 26.
+
+Transancestral GWAS of alcohol dependence reveals common genetic underpinnings 
+with psychiatric disorders.
+
+Walters RK(1)(2), Polimanti R(3), Johnson EC(4), McClintick JN(5), Adams MJ(6), 
+Adkins AE(7), Aliev F(8), Bacanu SA(9), Batzler A(10), Bertelsen S(11), 
+Biernacka JM(12), Bigdeli TB(13), Chen LS(4), Clarke TK(6), Chou YL(4), 
+Degenhardt F(14), Docherty AR(15), Edwards AC(16), Fontanillas P(17), Foo 
+JC(18), Fox L(4), Frank J(18), Giegling I(19), Gordon S(20), Hack LM(21), 
+Hartmann AM(19), Hartz SM(4), Heilmann-Heimbach S(14), Herms S(14)(22), 
+Hodgkinson C(23), Hoffmann P(14)(22), Jan Hottenga J(24), Kennedy MA(25), 
+Alanne-Kinnunen M(26), Konte B(19), Lahti J(27)(28), Lahti-Pulkkinen M(28), Lai 
+D(29), Ligthart L(24), Loukola A(26), Maher BS(30), Mbarek H(24), McIntosh 
+AM(31), McQueen MB(32), Meyers JL(33), Milaneschi Y(34), Palviainen T(26), 
+Pearson JF(35), Peterson RE(16), Ripatti S(1)(2)(26)(36), Ryu E(37), Saccone 
+NL(38), Salvatore JE(8)(16), Sanchez-Roige S(39), Schwandt M(40), Sherva R(41), 
+Streit F(18), Strohmaier J(18), Thomas N(7), Wang JC(11), Webb BT(9), Wedow 
+R(1)(2)(42)(43), Wetherill L(29), Wills AG(44); 23andMe Research Team; Boardman 
+JD(45), Chen D(2), Choi DS(46), Copeland WE(47), Culverhouse RC(48), Dahmen 
+N(49), Degenhardt L(50), Domingue BW(51), Elson SL(17), Frye MA(52), Gäbel 
+W(53), Hayward C(54), Ising M(55), Keyes M(56), Kiefer F(57), Kramer J(58), 
+Kuperman S(58), Lucae S(55), Lynskey MT(59), Maier W(60), Mann K(57), Männistö 
+S(61), Müller-Myhsok B(62), Murray AD(63), Nurnberger JI(29)(64), Palotie 
+A(1)(2)(26)(65), Preuss U(19)(66), Räikkönen K(28), Reynolds MD(67), Ridinger 
+M(68), Scherbaum N(69), Schuckit MA(39), Soyka M(70)(71), Treutlein J(18), Witt 
+S(18), Wodarz N(72), Zill P(71), Adkins DE(15)(73), Boden JM(25), Boomsma 
+DI(24), Bierut LJ(4), Brown SA(39)(74), Bucholz KK(4), Cichon S(22), Costello 
+EJ(47), de Wit H(75), Diazgranados N(75), Dick DM(7)(76), Eriksson JG(77), 
+Farrer LA(41)(78), Foroud TM(29), Gillespie NA(16), Goate AM(11), Goldman 
+D(23)(40), Grucza RA(4), Hancock DB(79), Harris KM(80), Heath AC(4), Hesselbrock 
+V(81), Hewitt JK(82), Hopfer CJ(83), Horwood J(25), Iacono W(56), Johnson 
+EO(84), Kaprio JA(26)(36), Karpyak VM(52), Kendler KS(9), Kranzler HR(85), 
+Krauter K(86), Lichtenstein P(87), Lind PA(20), McGue M(56), MacKillop J(88), 
+Madden PAF(4), Maes HH(89), Magnusson P(87), Martin NG(20), Medland SE(20), 
+Montgomery GW(90), Nelson EC(4), Nöthen MM(91), Palmer AA(39)(92), Pedersen 
+NL(87), Penninx BWJH(34), Porjesz B(33), Rice JP(4), Rietschel M(18), Riley 
+BP(9), Rose R(93), Rujescu D(19), Shen PH(23), Silberg J(16), Stallings MC(82), 
+Tarter RE(67), Vanyukov MM(67), Vrieze S(56), Wall TL(39), Whitfield JB(20), 
+Zhao H(94), Neale BM(1)(2), Gelernter J(95), Edenberg HJ(96)(97), Agrawal A(98).
+
+Collaborators: Agee M, Alipanahi B, Auton A, Bell RK, Bryc K, Elson SL, 
+Fontanillas P, Furlotte NA, Hinds DA, Huber KE, Kleinman A, Litterman NK, 
+McCreight JC, McIntyre MH, Mountain JL, Noblin ES, Northover CAM, Pitts SJ, 
+Sathirapongsasuti JF, Sazonova OV, Shelton JF, Shringarpure S, Tian C, Tung JY, 
+Vacic V, Wilson CH.
+
+Author information:
+(1)Analytic and Translational Genetics Unit, Department of Medicine, 
+Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.
+(2)Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, 
+Cambridge, MA, USA.
+(3)Department of Psychiatry, Yale School of Medicine and Veterans Affairs 
+Connecticut Healthcare Center, West Haven, CT, USA.
+(4)Washington University School of Medicine, Department of Psychiatry, St. 
+Louis, MO, USA.
+(5)Department of Biochemistry and Molecular Biology, Indiana University School 
+of Medicine, Indianapolis, IN, USA.
+(6)University of Edinburgh, Division of Psychiatry, Edinburgh, UK.
+(7)Department of Psychology & College Behavioral and Emotional Health Institute, 
+Virginia Commonwealth University, Richmond, VA, USA.
+(8)Virginia Commonwealth University, Department of Psychology, Richmond, VA, 
+USA.
+(9)Virginia Commonwealth University Alcohol Research Center; Virginia Institute 
+for Psychiatric and Behavioral Genetics; Department of Psychiatry, Virginia 
+Commonwealth University, Richmond, VA, USA.
+(10)Mayo Clinic, Psychiatric Genomics and Pharmacogenomics Program, Rochester, 
+MN, USA.
+(11)Icahn School of Medicine at Mount Sinai, Department of Neuroscience, New 
+York, NY, USA.
+(12)Mayo Clinic, Department of Health Sciences Research, and Department of 
+Psychiatry and Psychology, Rochester, MN, USA.
+(13)Department of Psychiatry and Behavioral Sciences, State University of New 
+York Downstate Medical Center, Brooklyn, NY, USA.
+(14)Institute of Human Genetics, University of Bonn; and Department of Genomics, 
+Life & Brain Center, University of Bonn, Bonn, Germany.
+(15)University of Utah, Department of Psychiatry, Salt Lake City, UT, USA.
+(16)Virginia Commonwealth University, Virginia Institute for Psychiatric and 
+Behavioral Genetics, Department of Psychiatry, Richmond, VA, USA.
+(17)23andMe, Inc, Mountain View, CA, USA.
+(18)Department of Genetic Epidemiology in Psychiatry, Central Institute of 
+Mental Health, Medical Faculty Mannheim, Heidelberg University, Mannheim, 
+Germany.
+(19)Martin-Luther-University Halle-Wittenberg, Department of Psychiatry, 
+Psychotherapy and Psychosomatics, Halle, Germany.
+(20)QIMR Berghofer Medical Research Institute, Brisbane, Queensland, Australia.
+(21)Department of Psychiatry and Behavioral Sciences, Emory University School of 
+Medicine, Atlanta, GA, USA.
+(22)Human Genomics Research Group, Department of Biomedicine, University of 
+Basel Institute of Medical Genetics and Pathology, University Hospital Basel, 
+Basel, Switzerland.
+(23)NIH/NIAAA, Laboratory of Neurogenetics, Bethesda, MD, USA.
+(24)Department of Biological Psychology, Amsterdam Public Health Research 
+Institute, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands.
+(25)University of Otago, Christchurch, New Zealand.
+(26)Institute for Molecular Medicine Finland (FIMM), University of Helsinki, 
+Helsinki, Finland.
+(27)Helsinki Collegium for Advanced Studies, University of Helsinki, Helsinki, 
+Finland.
+(28)Department of Psychology and Logopedics, University of Helsinki, Helsinki, 
+Finland.
+(29)Department of Medical and Molecular Genetics, Indiana University School of 
+Medicine, Indianapolis, IN, USA.
+(30)Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA.
+(31)University of Edinburgh, Division of Psychiatry, Centre for Cognitive Ageing 
+and Cognitive Epidemiology, Edinburgh, UK.
+(32)Department of Integrative Physiology, University of Colorado Boulder, 
+Boulder, CO, USA.
+(33)Henri Begleiter Neurodynamics Laboratory, Department of Psychiatry and 
+Behavioral Sciences, SUNY Downstate Medical Center, Brooklyn, NY, USA.
+(34)Department of Psychiatry, Amsterdam Public Health Research Institute, VU 
+University Medical Center/GGz inGeest, Amsterdam, The Netherlands.
+(35)Biostatistics and Computational Biology Unit, University of Otago, 
+Christchurch, New Zealand.
+(36)Department of Public Health, University of Helsinki, Helsinki, Finland.
+(37)Mayo Clinic, Department of Health Sciences Research, Rochester, MN, USA.
+(38)Washington University School of Medicine, Department of Genetics, St. Louis, 
+MO, USA.
+(39)University of California San Diego, Department of Psychiatry, San Diego, CA, 
+USA.
+(40)NIH/NIAAA, Office of the Clinical Director, Bethesda, MD, USA.
+(41)Department of Medicine (Biomedical Genetics), Boston University School of 
+Medicine, Boston, MA, USA.
+(42)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, MA, USA.
+(43)Department of Sociology, Harvard University, Cambridge, MA, USA.
+(44)University of Colorado School of Medicine, Department of Pharmacology, 
+Aurora, CO, USA.
+(45)Institute of Behavioral Science and Department of Sociology, University of 
+Colorado, Boulder, CO, USA.
+(46)Mayo Clinic, Department of Molecular Pharmacology and Experimental 
+Therapeutics, Rochester, MN, USA.
+(47)Duke University Medical Center, Department of Psychiatry and Behavioral 
+Sciences, Durham, NC, USA.
+(48)Washington University School of Medicine, Department of Medicine and 
+Division of Biostatistics, St. Louis, MO, USA.
+(49)Department of Psychiatry, University of Mainz, Mainz, Germany.
+(50)National Drug and Alcohol Research Centre, University of New South Wales, 
+Sydney, New South Wales, Australia.
+(51)Stanford University Graduate School of Education, Stanford, CA, USA.
+(52)Mayo Clinic, Department of Psychiatry and Psychology, Rochester, MN, USA.
+(53)Department of Psychiatry and Psychotherapy, University of Düsseldorf, 
+Düsseldorf, Germany.
+(54)MRC Human Genetics Unit, Institute of Genetics and Molecular Medicine, 
+University of Edinburgh, Edinburgh, UK.
+(55)Max-Planck-Institute of Psychiatry, Munich, Germany.
+(56)University of Minnesota, Department of Psychology, Minneapolis, MN, USA.
+(57)Department of Addictive Behavior and Addiction Medicine, Central Institute 
+of Mental Health, Medical Faculty Mannheim, Heidelberg University, Heidelberg, 
+Germany.
+(58)University of Iowa Roy J and Lucille A Carver College of Medicine, 
+Department of Psychiatry, Iowa City, IA, USA.
+(59)Addictions Department, Institute of Psychiatry, Psychology & Neuroscience, 
+King's College London, London, UK.
+(60)Department of Psychiatry, University of Bonn, Bonn, Germany.
+(61)Institute for Health and Welfare, Helsinki, Finland.
+(62)Department of Statistical Genetics, Max-Planck-Institute of Psychiatry, 
+Munich, Germany.
+(63)The Institute of Medical Sciences, Aberdeen Biomedical Imaging Centre, 
+University of Aberdeen, Aberdeen, UK.
+(64)Department of Psychiatry, Indiana University School of Medicine, 
+Indianapolis, IN, USA.
+(65)Department of Medicine, Department of Neurology and Department of 
+Psychiatry, Massachusetts General Hospital, Boston, MA, USA.
+(66)Vitos Hospital Herborn, Department of Psychiatry and Psychotherapy, Herborn, 
+Germany.
+(67)University of Pittsburgh, School of Pharmacy, Pittsburgh, PA, USA.
+(68)Department of Psychiatry and Psychotherapy, University of Regensburg 
+Psychiatric Health Care Aargau, Regensburg, Germany.
+(69)LVR-Hospital Essen, Department of Psychiatry and Psychotherapy, Department 
+of Addictive Behaviour and Addiction Medicine, Medical Faculty, University of 
+Duisburg-Essen, Duisburg, Germany.
+(70)Medical Park Chiemseeblick in Bernau-Felden, Chiemsee, Germany.
+(71)Psychiatric Hospital, Ludwig-Maximilians-University, Munich, Germany.
+(72)Department of Psychiatry and Psychotherapy, University of Regensburg, 
+Regensburg, Germany.
+(73)University of Utah, Department of Sociology, Salt Lake City, UT, USA.
+(74)University of California, San Diego School of Medicine, Department of 
+Psychology, San Diego, CA, USA.
+(75)NIAAA Intramural Research Program, Bethesda, MD, USA.
+(76)Department of Human & Molecular Genetics, Virginia Commonwealth University, 
+Richmond, VA, USA.
+(77)Department of General Practice and Primary Health Care, University of 
+Helsinki, and National Institute for Health and Welfare, Helsinki, Finland.
+(78)Departments of Neurology, Ophthalmology, Epidemiology, and Biostatistics, 
+Boston University Schools of Medicine and Public Health, Boston, MA, USA.
+(79)Center for Omics Discovery and Epidemiology, Behavioral Health Research 
+Division, RTI International, Research Triangle Park, NC, USA.
+(80)Department of Sociology and Carolina Population Center, University of North 
+Carolina at Chapel Hill, Chapel Hill, NC, USA.
+(81)University of Connecticut School of Medicine, Department of Psychiatry, 
+Farmington, CT, USA.
+(82)University of Colorado Boulder, Institute for Behavioral Genetics, Boulder, 
+CO, USA.
+(83)University of Colorado Denver, School of Medicine, Denver, CO, USA.
+(84)RTI International, Fellows Program, Research Triangle Park, NC, USA.
+(85)University of Pennsylvania Perelman School of Medicine, Center for Studies 
+of Addiction, Department of Psychiatry and VISN 4 MIRECC, Crescenz VAMC, 
+Philadelphia, PA, USA.
+(86)University of Colorado Boulder, Department of Molecular, Cellular, and 
+Developmental Biology, Boulder, CO, USA.
+(87)Department of Medical Epidemiology and Biostatistics, Karolinska Instituet, 
+Stockholm, Sweden.
+(88)Peter Boris Centre for Addictions Research, McMaster University/St. Joseph's 
+Healthcare Hamilton; Michael G. DeGroote Centre for Medicinal Cannabis Research, 
+Hamilton, Ontario, Canada.
+(89)Virginia Commonwealth University, Virginia Institute for Psychiatric and 
+Behavioral Genetics, Richmond, VA, USA.
+(90)The Institute for Molecular Bioscience, University of Queensland, Brisbane, 
+Queensland, Australia.
+(91)Institute of Human Genetics, University of Bonn School of Medicine & 
+University Hospital Bonn, Bonn, Germany.
+(92)University of California San Diego, Institute for Genomic Medicine, San 
+Diego, CA, USA.
+(93)Department of Psychological & Brain Sciences, Indiana University 
+Bloomington, Bloomington, IN, USA.
+(94)Department of Biostatistics, Yale School of Public Health, Yale University, 
+New Haven, CT, USA.
+(95)Departments of Psychiatry, Genetics, and Neuroscience, Yale University 
+School of Medicine, Veterans Affairs Connecticut Healthcare System, New Haven, 
+CT, USA. joel.gelernter@yale.edu.
+(96)Department of Biochemistry and Molecular Biology, Indiana University School 
+of Medicine, Indianapolis, IN, USA. edenberg@iu.edu.
+(97)Department of Medical and Molecular Genetics, Indiana University School of 
+Medicine, Indianapolis, IN, USA. edenberg@iu.edu.
+(98)Washington University School of Medicine, Department of Psychiatry, St. 
+Louis, MO, USA. Arpana@wustl.edu.
+
+Comment in
+    Am J Psychiatry. 2019 Feb 1;176(2):92-95.
+
+Liability to alcohol dependence (AD) is heritable, but little is known about its 
+complex polygenic architecture or its genetic relationship with other disorders. 
+To discover loci associated with AD and characterize the relationship between AD 
+and other psychiatric and behavioral outcomes, we carried out the largest 
+genome-wide association study to date of DSM-IV-diagnosed AD. Genome-wide data 
+on 14,904 individuals with AD and 37,944 controls from 28 case-control and 
+family-based studies were meta-analyzed, stratified by genetic ancestry 
+(European, n = 46,568; African, n = 6,280). Independent, genome-wide significant 
+effects of different ADH1B variants were identified in European (rs1229984; 
+P = 9.8 × 10-13) and African ancestries (rs2066702; P = 2.2 × 10-9). Significant 
+genetic correlations were observed with 17 phenotypes, including schizophrenia, 
+attention deficit-hyperactivity disorder, depression, and use of cigarettes and 
+cannabis. The genetic underpinnings of AD only partially overlap with those for 
+alcohol consumption, underscoring the genetic distinction between pathological 
+and nonpathological drinking behaviors.
+
+DOI: 10.1038/s41593-018-0275-1
+PMCID: PMC6430207
+PMID: 30482948 [Indexed for MEDLINE]
+
+
+7. JAMA Psychiatry. 2022 Oct 1;79(10):971-980. doi: 
+10.1001/jamapsychiatry.2022.2379.
+
+Associations Between Genetic Risk for Adult Suicide Attempt and Suicidal 
+Behaviors in Young Children in the US.
+
+Lee PH(1)(2)(3), Doyle AE(1)(2)(3), Silberstein M(1), Jung JY(4), Liu RT(2)(5), 
+Perlis RH(1)(2)(3), Roffman J(2), Smoller JW(1)(2)(3), Fava M(2)(3), Kessler 
+RC(6).
+
+Author information:
+(1)Center for Genomic Medicine, Massachusetts General Hospital, Boston.
+(2)Department of Psychiatry, Massachusetts General Hospital and Harvard Medical 
+School, Boston.
+(3)Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, 
+Cambridge, Massachusetts.
+(4)Department of Pediatrics, Stanford University, Stanford, California.
+(5)Depression Clinical &amp; Research Program, Massachusetts General Hospital, 
+Boston.
+(6)Department of Health Care Policy, Harvard Medical School, Boston, 
+Massachusetts.
+
+Erratum in
+    JAMA Psychiatry. 2022 Oct 19;:
+
+Comment on
+    JAMA Psychiatry. 2022 Oct 1;79(10):948-950.
+
+IMPORTANCE: Suicide rates have been increasing among youth in the US. While the 
+heritability of suicide risk is well established, there is limited understanding 
+of how genetic risk is associated with suicidal thoughts and behaviors in young 
+children.
+OBJECTIVE: To examine whether genetic susceptibility to suicide attempts (SAs) 
+is associated with suicidal thoughts and behaviors in children.
+DESIGN, SETTING, AND PARTICIPANTS: This case-control study examined data from 
+the Adolescent Brain Cognitive Development (ABCD) study, a population-based 
+longitudinal study of 11 878 US children enrolled at age 9 and 10 years from 
+September 2016 to November 2018. Youth reports of suicidal ideation (SI) and SAs 
+were obtained from the Kiddie Schedule for Affective Disorder and Schizophrenia 
+at baseline and 2 subsequent years. After conservative quality control of 
+genotype data, this analysis focused on 4344 unrelated individuals of European 
+ancestry. Data analysis was conducted from November 2020 to February 2022.
+MAIN OUTCOMES AND MEASURES: Children's lifetime experiences of SI and SAs were 
+assessed each year from ages 9 to 10 years to ages 11 to 12 years. Polygenic 
+risk scores (PRSs) for SAs were calculated for ABCD study participants based on 
+the largest genome-wide association study of SA cases and controls of European 
+ancestry (total sample n = 518 612).
+RESULTS: Of 4344 children of European ancestry (2045 [47.08%] female; mean [SD] 
+age, 9.93 [0.62] years), significant associations were found between children's 
+SA PRSs and their lifetime SAs with the most robust association in the follow-up 
+year 2 (odds ratio, 1.43 [95% CI, 1.18-1.75]; corrected P = 1.85 × 10-3; 
+Nagelkerke pseudo R2 = 1.51%). These associations remained significant after 
+accounting for children's sociodemographic backgrounds, psychopathology 
+symptoms, parental histories of suicide and mental health, and PRSs for major 
+depression and attention-deficit/hyperactivity disorder (likelihood ratio test 
+P &lt; .05). Children's depressive mood and aggressive behavior were the most 
+significant partial mediators of SA genetic risk on SAs (mediation analysis 
+P &lt; 1 × 10-16). Children's behavioral problems, such as attention problems, 
+rule-breaking behavior, and social problems, also partially mediated the 
+association of SA PRSs with SAs (mediation analysis false discover 
+rate &lt; 0.05).
+CONCLUSIONS AND RELEVANCE: This study's findings indicate that there may be 
+genetic factors associated with SA risk across the life span and suggest 
+behaviors and conditions through which the risk could be mediated in childhood. 
+Further research is warranted to examine whether incorporating genetic data 
+could improve the identification of children at risk for suicide.
+
+DOI: 10.1001/jamapsychiatry.2022.2379
+PMCID: PMC9434482
+PMID: 36044238 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Liu 
+reported grants from the National Institute of Mental Health during the conduct 
+of the study and personal fees from Relmada Therapeutics outside the submitted 
+work. Dr Perlis reports fees for consulting or service on scientific advisory 
+boards for Genomind, Psy Therapeutics, Outermost Therapeutics, RID Ventures, and 
+Takeda; patent royalties from Massachusetts General Hospital; and holds equity 
+in Psy Therapeutics and Outermost Therapeutics. Dr Smoller reported personal 
+fees from Tempus Labs Honorarium for an internal seminar; personal fees from 
+Sensorium Inc as a member of scientific advisory board with equity; nonfinancial 
+support from 23andme as principal investigator of a collaborative study of the 
+genetics of depression and bipolar disorder sponsored by 23andMe for which 
+23andMe provides analysis time as in-kind support but no payments; honoraria for 
+internal seminars at Biogen and Tempus Labs outside the submitted work. Dr Fava 
+reported research support from Abbott Laboratories, Acadia Pharmaceuticals, 
+Aditum Bio Management Company, Allergan, Alkermes, Altimate Health Corporation, 
+Angelini S.p.A, Aptinyx, Arbor Pharmaceuticals, Aspect Medical Systems, 
+AstraZeneca, Avanir Pharmaceuticals, Axsome, Benckiser Pharmaceuticals, 
+BioClinica, Biogen, BioHaven, BioResearch, BrainCells, Bristol Myers Squibb, 
+Cambridge Science Corporation, CeNeRx BioPharma, Centrexion Therapeutics 
+Corporation, Cephalon, Cerecor, Clarus Funds, Clexio Biosciences, Clintara, 
+Covance, Covidien, Cyanamid, Eli Lilly and Company, EnVivo Pharmaceuticals, 
+Euthymics Bioscience, Forest Pharmaceuticals, FORUM Pharmaceuticals, Ganeden 
+Biotech, Gate Neurosciences, GenOmind, Gentelon, GlaxoSmithKline, Happify, 
+Harvard Clinical Research Institute, Hoffman-LaRoche, Icon Clinical Research, 
+Indivior, i3 Innovus/Ingenix, Janssen, Jed Foundation, Johnson & Johnson, 
+Lichtwer Pharma, Lorex Pharmaceuticals, Lundbeck, Marinus Pharmaceuticals, 
+MedAvante, Methylation Sciences, Millennium Pharmaceutics, Minerva 
+Neurosciences, National Alliance for Research on Schizophrenia & Depression, 
+National Center for Complementary and Alternative Medicine, National 
+Coordinating Center for Integrated Medicine, National Institute of Drug Abuse, 
+National Institutes of Health, National Institute of Mental Health, Neuralstem, 
+NeuroRx, Novaremed, Novartis, Organon Pharmaceuticals, Otsuka, PamLab, Pfizer, 
+Pharmacia-Upjohn, Pharmaceutical Research Associates, Pharmavite, Premiere 
+Research International, PharmoRx Therapeutics, Photothera, Praxis Precision 
+Medicines, Premiere Research International, Protagenic Therapeutics, Reckitt, 
+Relmada Therapeutics, Roche Pharmaceuticals; RCT Logic (formerly Clinical Trials 
+Solutions), Sanofi-Aventis, Shenox Pharmaceuticals, Shire, Solvay 
+Pharmaceuticals, Stanley Medical Research Institute, Synthelabo, Taisho, Takeda, 
+Takeda Pharmaceuticals, Tal Medical, University of Michigan, VistaGen, 
+WinSanTor, Wyeth-Ayerst Laboratories, National Institute of Drug Abuse, National 
+Institutes of Health, National Institute of Mental Health, and Patient-Centered 
+Outcomes Research Institute; consulting for Sensorium Therapeutics; lecture 
+given at Global Medical Education, Mood Disorders Summit, November 2020; holds 
+equity in Compellis, Neuromity, Psy Therapeutics, and Sensorium Therapeutics; 
+patent for sequential parallel comparison design, licensed by Massachusetts 
+General Hospital to Pharmaceutical Product Development (US_7840419, US_7647235, 
+US_7983936, US_8145504, US_8145505); patent application for a combination of 
+ketamine plus scopolamine in major depressive disorder, licensed by 
+Massachusetts General Hospital to Biohaven; patent for pharmacogenomics of 
+depression treatment with folate (US_9546401, US_9540691); and copyright for the 
+Massachusetts General Hospital Cognitive & Physical Functioning Questionnaire, 
+Sexual Functioning Inventory, Antidepressant Treatment Response Questionnaire, 
+Discontinuation-Emergent Signs & Symptoms, Symptoms of Depression Questionnaire, 
+and SAFER. Dr Kessler reported personal fees from Datastat, Holmusk, RallyPoint 
+Networks, and Sage Therapeutics and stock options from Mirah, PYM, and Roga 
+Sciences during the conduct of the study. No other disclosures were reported.
+
+
+8. Ann N Y Acad Sci. 2008 Oct;1141:131-47. doi: 10.1196/annals.1441.016.
+
+ADHD and smoking: from genes to brain to behavior.
+
+McClernon FJ(1), Kollins SH.
+
+Author information:
+(1)Department of Psychiatry and Behavioral Sciences, Duke University Medical 
+Center, Durham, NC 27708, USA. mccle011@mc.duke.edu
+
+Attention-deficit/hyperactivity disorder (ADHD) and tobacco smoking are among 
+the most common and costly psychiatric and behavioral problems. The rates of 
+co-occurrence of these two common problems are larger than expected by chance. 
+Despite progress in identifying the neural and genetic substrates of each, the 
+mechanisms underlying the high rates of comorbidity between ADHD and smoking 
+remain largely unknown. We propose that ADHD and smoking involve dysregulation 
+of dopaminergic and nicotinic-acetylcholinergic circuits and that these 
+aberrations are likely to arise, at least in part, from genetic variations. This 
+review describes an integrative model of the ADHD-smoking comorbidity, with an 
+emphasis on shared neuropharmacological mechanisms. We first describe the 
+prevalence of smoking among ADHD patients. We then describe how ADHD influences 
+stages of smoking behavior (e.g., initiation, maintenance, and relapse). We 
+review common potential genetic substrates of ADHD and smoking, focusing on 
+genes that regulate monoaminergic neurotransmission. We review the behavioral 
+and neuropharmacological bases of smoking and ADHD, focusing on the modulatory 
+roles of nicotine on attention and behavioral control. Finally, we discuss the 
+implications of this model for prevention and clinical outcomes.
+
+DOI: 10.1196/annals.1441.016
+PMCID: PMC2758663
+PMID: 18991955 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest Dr. McClernon has received 
+honoraria from Eli Lilly and research support from NIDA and the Atkins 
+Foundation. Dr. Kollins has received research support or honoraria from the 
+following sources: Shire Pharmaceuticals, Eli Lilly, Comentis, Psychogenics, 
+Pfizer, Cephalon, New River Pharmaceuticals, NIDA, NIMH, NINDS, NIEHS, and EPA.
+
+
+9. Exp Clin Psychopharmacol. 2014 Apr;22(2):100-9. doi: 10.1037/a0035338. Epub 2014 
+Mar 10.
+
+Interactive association of dopamine receptor (DRD4) genotype and ADHD on alcohol 
+expectancies in children.
+
+Lee SS(1), Humphreys KL(1).
+
+Author information:
+(1)Department of Psychology.
+
+Positive and negative alcohol expectancies (AEs) are beliefs about the 
+consequences of alcohol use (e.g., happy, sad, lazy) and they predict patterns 
+of adolescent and adult alcohol engagement in clinical and nonclinical samples. 
+However, significantly less is known about predictors of AE in children, despite 
+significant variability in AE early in and across development. To identify 
+temporally ordered risk factors that precede AE, we evaluated the independent 
+and interactive association of the functional 7-repeat polymorphism of the 
+dopamine D4 receptor (DRD4) genotype and attention-deficit/hyperactivity 
+disorder (ADHD) with respect to individual differences in positive-social, 
+negative-arousal, sedated/impaired, and wild/crazy AE in school-age children (N 
+= 149) prospectively followed from 6-9 to 8-13 years of age. Controlling for 
+age, sex, and wave, DRD4 7+ carriers reported more wild/crazy AE, but DRD4 was 
+unrelated to the remaining AE domains. ADHD symptoms independently predicted 
+higher negative-arousal, sedated/impaired, and wild/crazy AE, but not 
+positive-social. We also observed a significant interaction in which ADHD 
+symptoms positively predicted wild/crazy AE only in youth with the 7-repeat DRD4 
+genotype; the same interaction marginally predicted sedated/impaired AE. No 
+interactive effects were observed for the remaining AE domains. These 
+preliminary results suggest that, among DRD4 youth, early ADHD symptoms predict 
+that children will expect alcohol to have wild/crazy effects. We consider these 
+results within a developmental framework to better understand pathways to and 
+from youth alcohol problems.
+
+PsycINFO Database Record (c) 2014 APA, all rights reserved.
+
+DOI: 10.1037/a0035338
+PMCID: PMC4330243
+PMID: 24611835 [Indexed for MEDLINE]
+
+
+10. Adv Hum Genet. 1976;7:57-97. doi: 10.1007/978-1-4757-0659-8_2.
+
+Human behavior genetics.
+
+Childs B, Finucci JM, Preston MS, Pulver AE.
+
+DOI: 10.1007/978-1-4757-0659-8_2
+PMID: 797246 [Indexed for MEDLINE]
+
+
+11. Postgrad Med. 2014 Jan;126(1):153-77. doi: 10.3810/pgm.2014.01.2735.
+
+Low dopamine function in attention deficit/hyperactivity disorder: should 
+genotyping signify early diagnosis in children?
+
+Gold MS(1), Blum K, Oscar-Berman M, Braverman ER.
+
+Author information:
+(1)Department of Psychiatry, School of Medicine and McKnight Brain Institute, 
+University of Florida, Gainesville, FL. msgold@ufl.edu.
+
+Attention deficit/hyperactivity disorder (ADHD) is present in 8% to 12% of 
+children, and 4% of adults worldwide. Children with ADHD can have learning 
+impairments, poor selfesteem, social dysfunction, and an increased risk of 
+substance abuse, including cigarette smoking. Overall, the rate of treatment 
+with medication for patients with ADHD has been increasing since 2008, with ≥ 2 
+million children now being treated with stimulants. The rise of adolescent 
+prescription ADHD medication abuse has occurred along with a concomitant 
+increase of stimulant medication availability. Of adults presenting with a 
+substance use disorder (SUD), 20% to 30% have concurrent ADHD, and 20% to 40% of 
+adults with ADHD have a history of SUD. Following a brief review of the etiology 
+of ADHD, its diagnosis and treatment, we focus on the benefits of early and 
+appropriate testing for a predisposition to ADHD. We suggest that by genotyping 
+patients for a number of known, associated dopaminergic polymorphisms, 
+especially at an early age, misdiagnoses and/or over-diagnosis can be reduced. 
+Ethical and legal issues of early genotyping are considered. As many as 30% of 
+individuals with ADHD are estimated to either have secondary side-effects or are 
+not responsive to stimulant medication. We also consider the benefits of 
+non-stimulant medication and alternative treatment modalities, which include 
+diet, herbal medications, iron supplementation, and neurofeedback. With the 
+goals of improving treatment of patients with ADHD and SUD prevention, we 
+encourage further work in both genetic diagnosis and novel treatment approaches.
+
+DOI: 10.3810/pgm.2014.01.2735
+PMCID: PMC4074363
+PMID: 24393762 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Statement Mark S. Gold, MD, 
+discloses no conflicts of interest. Kenneth Blum, PhD, discloses that he is the 
+owner of and employed by Synaptamine Inc; and owns 100% of stock and all patents 
+issued and pending. He also owns 80% of the stock for Igene LLC; 50% of Impact 
+Genomics, LLC; 10% of Victory Nutrition, LLC; and 25% of Kenber LLC. Marlene 
+Oscar-Berman, PhD, discloses no conflicts of interest. Eric R. Braverman, MD, is 
+the owner of Total Health Nutrients, Inc.
+
+
+12. Am J Psychiatry. 2019 Feb 1;176(2):107-118. doi: 10.1176/appi.ajp.2018.18040369. 
+Epub 2018 Oct 19.
+
+Genome-Wide Association Study Meta-Analysis of the Alcohol Use Disorders 
+Identification Test (AUDIT) in Two Population-Based Cohorts.
+
+Sanchez-Roige S(1), Palmer AA(1), Fontanillas P(1), Elson SL(1); 23andMe 
+Research Team, the Substance Use Disorder Working Group of the Psychiatric 
+Genomics Consortium(1); Adams MJ(1), Howard DM(1), Edenberg HJ(1), Davies G(1), 
+Crist RC(1), Deary IJ(1), McIntosh AM(1), Clarke TK(1).
+
+Author information:
+(1)From the Department of Psychiatry and the Institute for Genomic Medicine, 
+University of California San Diego, La Jolla; 23andMe, Inc., Mountain View, 
+Calif.; the Division of Psychiatry, the Department of Psychology, and the Centre 
+for Cognitive Ageing and Cognitive Epidemiology, University of Edinburgh, 
+Edinburgh, U.K.; the Department of Biochemistry and Molecular Biology, Indiana 
+University School of Medicine, Indianapolis; and the Translational Research 
+Laboratories, Center for Neurobiology and Behavior, Department of Psychiatry, 
+University of Pennsylvania Perelman School of Medicine, Philadelphia.
+
+Comment in
+    Am J Psychiatry. 2019 Feb 1;176(2):92-95.
+
+OBJECTIVE: Alcohol use disorders are common conditions that have enormous social 
+and economic consequences. Genome-wide association analyses were performed to 
+identify genetic variants associated with a proxy measure of alcohol consumption 
+and alcohol misuse and to explore the shared genetic basis between these 
+measures and other substance use, psychiatric, and behavioral traits.
+METHOD: This study used quantitative measures from the Alcohol Use Disorders 
+Identification Test (AUDIT) from two population-based cohorts of European 
+ancestry (UK Biobank [N=121,604] and 23andMe [N=20,328]) and performed a 
+genome-wide association study (GWAS) meta-analysis. Two additional GWAS analyses 
+were performed, a GWAS for AUDIT scores on items 1-3, which focus on consumption 
+(AUDIT-C), and for scores on items 4-10, which focus on the problematic 
+consequences of drinking (AUDIT-P).
+RESULTS: The GWAS meta-analysis of AUDIT total score identified 10 associated 
+risk loci. Novel associations localized to genes including JCAD and SLC39A13; 
+this study also replicated previously identified signals in the genes ADH1B, 
+ADH1C, KLB, and GCKR. The dimensions of AUDIT showed positive genetic 
+correlations with alcohol consumption (rg=0.76-0.92) and DSM-IV alcohol 
+dependence (rg=0.33-0.63). AUDIT-P and AUDIT-C scores showed significantly 
+different patterns of association across a number of traits, including 
+psychiatric disorders. AUDIT-P score was significantly positively genetically 
+correlated with schizophrenia (rg=0.22), major depressive disorder (rg=0.26), 
+and attention deficit hyperactivity disorder (rg=0.23), whereas AUDIT-C score 
+was significantly negatively genetically correlated with major depressive 
+disorder (rg=-0.24) and ADHD (rg=-0.10). This study also used the AUDIT data in 
+the UK Biobank to identify thresholds for dichotomizing AUDIT total score that 
+optimize genetic correlations with DSM-IV alcohol dependence. Coding individuals 
+with AUDIT total scores ≤4 as control subjects and those with scores ≥12 as case 
+subjects produced a significant high genetic correlation with DSM-IV alcohol 
+dependence (rg=0.82) while retaining most subjects.
+CONCLUSIONS: AUDIT scores ascertained in population-based cohorts can be used to 
+explore the genetic basis of both alcohol consumption and alcohol use disorders.
+
+DOI: 10.1176/appi.ajp.2018.18040369
+PMCID: PMC6365681
+PMID: 30336701 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflict of interest
+
+
+13. Psychiatry Res. 2012 Feb 28;201(2):128-35. doi: 
+10.1016/j.pscychresns.2011.08.004. Epub 2012 Mar 3.
+
+Parental substance abuse and function of the motivation and behavioral 
+inhibition systems in drug-naïve youth.
+
+Ivanov I(1), Liu X, Shulz K, Fan J, London E, Friston K, Halperin JM, Newcorn 
+JH.
+
+Author information:
+(1)Department of Psychiatry, Mount Sinai School of Medicine, New York, NY 10029, 
+United States. iliyan.ivanov@mssm.edu
+
+It is hypothesized that the development of substance abuse (SA) may be due to 
+imbalance in functions of the motivation-reward and behavioral inhibition 
+systems in the brain. This speaks to the search for biological risk factors for 
+SA in drug-naïve children who also exhibit motivational and inhibitory control 
+deficits; however, this type of research is currently lacking. The objective of 
+this study was to establish a neurobiological basis for addiction vulnerability 
+using functional magnetic resonance imaging (fMRI) in drug-naïve youth with 
+attention deficit/hyperactivity disorder (ADHD). We hypothesized that children 
+with ADHD alone would show higher activity in regions of the motivation-reward 
+and behavioral inhibition systems than children with ADHD and a parental history 
+of SA. Toward this goal we scanned 20 drug-naïve children with ADHD ages 8-13 
+while performing an event-related reward task. High (N=10) and low (N=10) risk 
+subjects were identified, based on parental history of SA. The effects of 
+anticipation, conflict, and reward were assessed with appropriate linear 
+contrasts, and between-group differences were assessed using statistical 
+parametric mapping. The two groups did not differ on behavioral measures of the 
+task. The fMRI results show heightened activation in the brain 
+motivational-reward system and reduced activation of the inhibitory control 
+system in high-risk compared to low-risk children. These results suggest that a 
+functional mismatch between these two systems may represent one possible 
+biological underpinning of SA risk, which is conferred by a parental history of 
+addiction.
+
+Copyright © 2011 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.pscychresns.2011.08.004
+PMCID: PMC3335432
+PMID: 22386967 [Indexed for MEDLINE]
+
+
+14. CNS Neurol Disord Drug Targets. 2008 Nov;7(5):393-409. doi: 
+10.2174/187152708786927877.
+
+Role of the dopamine transporter in the action of psychostimulants, nicotine, 
+and other drugs of abuse.
+
+Zhu J(1), Reith ME.
+
+Author information:
+(1)Department of Psychology, University of South Carolina, Columbia, SC 29208, 
+USA. zhujun@mailbox.sc.edu
+
+A number of studies over the last two decades have demonstrated the critical 
+importance of dopamine (DA) in the behavioral pharmacology and addictive 
+properties of abused drugs. The DA transporter (DAT) is a major target for drugs 
+of abuse in the category of psychostimulants, and for methylphenidate (MPH), a 
+drug used for treating attention deficit hyperactivity disorder (ADHD), which 
+can also be a psychostimulant drug of abuse. Other drugs of abuse such as 
+nicotine, ethanol, heroin and morphine interact with the DAT in more indirect 
+ways. Despite the different ways in which drugs of abuse can affect DAT 
+function, one evolving theme in all cases is regulation of the DAT at the level 
+of surface expression. DAT function is dynamically regulated by multiple 
+intracellular and extracellular signaling pathways and several protein-protein 
+interactions. In addition, DAT expression is regulated through the removal 
+(internalization) and recycling of the protein from the cell surface. 
+Furthermore, recent studies have demonstrated that individual differences in 
+response to novel environments and psychostimulants can be predicted based on 
+individual basal functional DAT expression. Although current knowledge of 
+multiple factors regulating DAT activity has greatly expanded, many aspects of 
+this regulation remain to be elucidated; these data will enable efforts to 
+identify drugs that might be used therapeutically for drug dependence 
+therapeutics.
+
+DOI: 10.2174/187152708786927877
+PMCID: PMC3133725
+PMID: 19128199 [Indexed for MEDLINE]
+
+
+15. Transl Psychiatry. 2019 Jan 29;9(1):42. doi: 10.1038/s41398-019-0396-7.
+
+ADGRL3 (LPHN3) variants predict substance use disorder.
+
+Arcos-Burgos M(1)(2)(3), Vélez JI(4)(5), Martinez AF(4), Ribasés M(6)(7)(8), 
+Ramos-Quiroga JA(6)(7)(8)(9), Sánchez-Mora C(6)(7)(8), Richarte V(7)(8)(9), 
+Roncero C(7)(8)(9)(10), Cormand B(11)(12)(13)(14), Fernández-Castillo 
+N(11)(12)(13)(14), Casas M(6)(7)(8)(9), Lopera F(15), Pineda DA(15), Palacio 
+JD(15), Acosta-López JE(16), Cervantes-Henriquez ML(5)(16), Sánchez-Rojas 
+MG(16), Puentes-Rozo PJ(16)(17), Molina BSG(18); MTA Cooperative Group; Boden 
+MT(19), Wallis D(20), Lidbury B(21), Newman S(21), Easteal S(21), Swanson 
+J(22)(23), Patel H(24), Volkow N(25), Acosta MT(4), Castellanos FX(26)(27), de 
+Leon J(19), Mastronardi CA(28)(29), Muenke M(30).
+
+Author information:
+(1)Medical Genetics Branch, National Human Genome Research Institute, National 
+Institutes of Health, Bethesda, MD, USA. mauricio.arcos@udea.edu.co.
+(2)INPAC Research Group, Fundación Universitaria Sanitas, Bogotá, Colombia. 
+mauricio.arcos@udea.edu.co.
+(3)Instituto de Investigaciones Médicas (IIM), Facultad de Medicina, Universidad 
+de Antioquia, Medellín, Colombia. mauricio.arcos@udea.edu.co.
+(4)Medical Genetics Branch, National Human Genome Research Institute, National 
+Institutes of Health, Bethesda, MD, USA.
+(5)Universidad del Norte, Barranquilla, Colombia.
+(6)Psychiatric Genetics Unit, Group of Psychiatry, Mental Health and Addiction, 
+Vall d'Hebron Research Institute (VHIR), Universitat Autònoma de Barcelona, 
+Barcelona, Spain.
+(7)Department of Psychiatry, Hospital Universitari Vall d'Hebron, Barcelona, 
+Spain.
+(8)Biomedical Network Research Centre on Mental Health (CIBERSAM), Barcelona, 
+Spain.
+(9)Department of Psychiatry and Legal Medicine, Universitat Autònoma de 
+Barcelona, Barcelona, Spain.
+(10)Addiction and Dual Diagnosis Unit, Departament of Psychiatry, Hospital 
+Universitari Vall d'Hebron-Public Health Agency, Barcelona, Spain.
+(11)Department of Genetics, Microbiology and Statistics, University of 
+Barcelona, Barcelona, CAT, Spain.
+(12)Centro de Investigación Biomédica en Red de Enfermedades Raras (CIBERER), 
+Instituto de Salud Carlos III, Madrid, Spain.
+(13)Institut de Biomedicina de la Universitat de Barcelona (IBUB), Barcelona, 
+CAT, Spain.
+(14)Institut de Recerca Sant Joan de Déu (IRSJD), Esplugues, CAT, Spain.
+(15)Neuroscience Research Group, Universidad de Antioquia, Medellín, Colombia.
+(16)Grupo de Neurociencias del Caribe, Unidad de Neurociencias Cognitivas, 
+Universidad Simón Bolívar, Barranquilla, Colombia.
+(17)Grupo de Neurociencias del Caribe, Universidad del Atlántico, Barranquilla, 
+Colombia.
+(18)Departments of Psychiatry and Psychology, University of Pittsburg, 
+Pittsburg, PA, USA.
+(19)University of Kentucky Mental Health Research Center at Eastern State 
+Hospital, Lexington, KY, USA.
+(20)Department of Biochemistry and Biophysics, Texas A&M University, College 
+Station, TX, USA.
+(21)National Center for Indigenous Genomics, Genome Biology Department, John 
+Curtin School of Medical Research, ANU College of Medicine, Biology and 
+Environment, The Australian National University, Canberra, ACT, Australia.
+(22)Department of Psychiatry, Florida International University, Miami, FL, USA.
+(23)Child Development Center, University of California at Irvine, Irvine, CA, 
+USA.
+(24)Genome Discovery Unit, Genome Biology Department, John Curtin School of 
+Medical Research, ANU College of Medicine, Biology and Environment, The 
+Australian National University, Canberra, ACT, Australia.
+(25)Office of the Director, National Institute on Drug Abuse, National 
+Institutes of Health, Rockville, MD, USA.
+(26)Department of Child and Adolescent Psychiatry, Hassenfeld Children's 
+Hospital at NYU Langone, New York, NY, USA.
+(27)Nathan Kline Institute for Psychiatric Research, Orangeburg, NY, USA.
+(28)INPAC Research Group, Fundación Universitaria Sanitas, Bogotá, Colombia.
+(29)Center for Research in Genetics and Genomics, Institute of Translational 
+Medicine, School of Medicine and Health Sciences, Universidad del Rosario, 
+Bogotá, Colombia.
+(30)Medical Genetics Branch, National Human Genome Research Institute, National 
+Institutes of Health, Bethesda, MD, USA. mamuenke@mail.nih.gov.
+
+Genetic factors are strongly implicated in the susceptibility to develop 
+externalizing syndromes such as attention-deficit/hyperactivity disorder (ADHD), 
+oppositional defiant disorder, conduct disorder, and substance use disorder 
+(SUD). Variants in the ADGRL3 (LPHN3) gene predispose to ADHD and predict ADHD 
+severity, disruptive behaviors comorbidity, long-term outcome, and response to 
+treatment. In this study, we investigated whether variants within ADGRL3 are 
+associated with SUD, a disorder that is frequently co-morbid with ADHD. Using 
+family-based, case-control, and longitudinal samples from disparate regions of 
+the world (n = 2698), recruited either for clinical, genetic epidemiological or 
+pharmacogenomic studies of ADHD, we assembled recursive-partitioning frameworks 
+(classification tree analyses) with clinical, demographic, and ADGRL3 genetic 
+information to predict SUD susceptibility. Our results indicate that SUD can be 
+efficiently and robustly predicted in ADHD participants. The genetic models used 
+remained highly efficient in predicting SUD in a large sample of individuals 
+with severe SUD from a psychiatric institution that were not ascertained on the 
+basis of ADHD diagnosis, thus identifying ADGRL3 as a risk gene for SUD. 
+Recursive-partitioning analyses revealed that rs4860437 was the predominant 
+predictive variant. This new methodological approach offers novel insights into 
+higher order predictive interactions and offers a unique opportunity for 
+translational application in the clinical assessment of patients at high risk 
+for SUD.
+
+DOI: 10.1038/s41398-019-0396-7
+PMCID: PMC6351584
+PMID: 30696812 [Indexed for MEDLINE]
+
+Conflict of interest statement: J.A.R.-Q has served on the speakers’ bureau and 
+acted as consultant for Eli Lilly and Co., Janssen-Cilag, Novartis, Lundbeck, 
+Shire, Ferrer, and Laboratorios Rubió. He has received travel awards from Eli 
+Lilly and Co., Janssen-Cilag, and Shire for participating in psychiatric 
+meetings. The ADHD Program chaired by J.A.R.-Q. has received unrestricted 
+educational and research support from Eli Lilly and Co., Janssen-Cilag, Shire, 
+Rovi, Ferrer and Laboratorios Rubió in the past two years. The remaining authors 
+declare that they have no conflict of interest.
+
+
+16. Front Psychiatry. 2022 Feb 9;12:780921. doi: 10.3389/fpsyt.2021.780921. 
+eCollection 2021.
+
+The Mechanism, Clinical Efficacy, Safety, and Dosage Regimen of Atomoxetine for 
+ADHD Therapy in Children: A Narrative Review.
+
+Fu D(1)(2), Wu DD(3), Guo HL(1), Hu YH(1), Xia Y(1), Ji X(1), Fang WR(2), Li 
+YM(2), Xu J(1), Chen F(1), Liu QQ(3).
+
+Author information:
+(1)Department of Pharmacy, Pharmaceutical Sciences Research Center, Children's 
+Hospital of Nanjing Medical University, Nanjing, China.
+(2)School of Basic Medical Sciences and Clinical Pharmacy, China Pharmaceutical 
+University, Nanjing, China.
+(3)Department of Children Health Care, Children's Hospital of Nanjing Medical 
+University, Nanjing, China.
+
+Atomoxetine, a selective norepinephrine (NE) reuptake inhibitor, was approved 
+for attention deficit/hyperactivity disorder (ADHD) treatment in children, 
+adolescents and adults. We searched the database PubMed/MEDLINE (2000 to October 
+1, 2021). Only publications in English were considered. Atomoxetine inhibits the 
+presynaptic norepinephrine transporter (NET), preventing the reuptake of NE 
+throughout the brain along with inhibiting the reuptake of dopamine in specific 
+brain regions such as the prefrontal cortex (PFC). The novel mechanism of 
+atomoxetine also includes several new brain imaging studies and animal model 
+studies. It is mainly metabolized by the highly polymorphic drug metabolizing 
+enzyme cytochrome P450 2D6 (CYP2D6). Atomoxetine is effective and generally well 
+tolerated. ADHD is often accompanied by multiple comorbidities. A series of 
+studies have been published suggesting that atomoxetine is effective in the 
+treatment of ADHD symptoms for children with various types of comorbidity. In 
+some cases, it is possible that atomoxetine may have a positive influence on the 
+symptoms of comorbidities. Atomoxetine can be administered either as a single 
+daily dose or split into two evenly divided doses, and has a negligible risk of 
+abuse or misuse. The latest guideline updated that clinical dose selection of 
+atomoxetine was recommended based on both CYP2D6 genotype and the peak 
+concentration. To have a more comprehensive understanding of atomoxetine, this 
+review sets the focus on the mechanism, clinical efficacy and dosage regimen in 
+detail, and also touches on those studies regarding adverse reactions of 
+atomoxetine.
+
+Copyright © 2022 Fu, Wu, Guo, Hu, Xia, Ji, Fang, Li, Xu, Chen and Liu.
+
+DOI: 10.3389/fpsyt.2021.780921
+PMCID: PMC8863678
+PMID: 35222104
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+17. Transl Psychiatry. 2021 Jun 29;11(1):363. doi: 10.1038/s41398-021-01440-5.
+
+Genome-wide association study of stimulant dependence.
+
+Cox J(1), Sherva R(1), Wetherill L(2), Foroud T(2), Edenberg HJ(2)(3), Kranzler 
+HR(4), Gelernter J(5)(6), Farrer LA(7)(8)(9)(10)(11).
+
+Author information:
+(1)Department of Medicine (Biomedical Genetics), Boston University School of 
+Medicine, Boston, MA, 02118, USA.
+(2)Departments of Medical and Molecular Genetics, Indiana University School of 
+Medicine, Indianapolis, IN, 46202, USA.
+(3)Biochemistry and Molecular Biology, Indiana University School of Medicine, 
+Indianapolis, IN, 46202, USA.
+(4)Perelman School of Medicine, University of Pennsylvania and VISN 4 MIRECC, 
+Crescenz VAMC, Philadelphia, PA, 19104, USA.
+(5)Departments of Psychiatry, Genetics and Neuroscience, Yale School of 
+Medicine, New Haven, CT, 06511, USA.
+(6)Department of Psychiatry, VA CT Healthcare Center, West Haven, CT, 06516, 
+USA.
+(7)Department of Medicine (Biomedical Genetics), Boston University School of 
+Medicine, Boston, MA, 02118, USA. farrer@bu.edu.
+(8)Department of Neurology, Boston University School of Medicine, Boston, MA, 
+02118, USA. farrer@bu.edu.
+(9)Department of Ophthalmology, Boston University School of Medicine, Boston, 
+MA, 02118, USA. farrer@bu.edu.
+(10)Department of Epidemiology, Boston University School of Public Health, 
+Boston, MA, 02118, USA. farrer@bu.edu.
+(11)Department of Biostatistics, Boston University School of Public Health, 
+Boston, MA, 02118, USA. farrer@bu.edu.
+
+Stimulant dependence is heritable, but specific genetic factors underlying the 
+trait have not been identified. A genome-wide association study for stimulant 
+dependence was performed in a discovery cohort of African- (AA) and 
+European-ancestry (EA) subjects ascertained for genetic studies of alcohol, 
+opioid, and cocaine use disorders. The sample comprised individuals with DSM-IV 
+stimulant dependence (393 EA cases, 5288 EA controls; 155 AA cases, 5603 AA 
+controls). An independent cohort from the family-based Collaborative Study on 
+the Genetics of Alcoholism (532 EA cases, 7635 EA controls; 53 AA cases, AA 3352 
+controls) was used for replication. One variant in SLC25A16 (rs2394476, 
+p = 3.42 × 10-10, odds ratio [OR] = 3.70) was GWS in AAs. Four other loci showed 
+suggestive evidence, including KCNA4 in AAs (rs11500237, p = 2.99 × 10-7, 
+OR = 2.31) which encodes one of the potassium voltage-gated channel protein that 
+has been linked to several other substance use disorders, and CPVL in the 
+combined population groups (rs1176440, p = 3.05 × 10-7, OR = 1.35), whose 
+expression was previously shown to be upregulated in the prefrontal cortex from 
+users of cocaine, cannabis, and phencyclidine. Analysis of the top GWAS signals 
+revealed a significant enrichment with nicotinic acetylcholine receptor genes 
+(adjusted p = 0.04) and significant pleiotropy between stimulant dependence and 
+alcohol dependence in EAs (padj = 3.6 × 10-3), an anxiety disorder in EAs 
+(padj = 2.1 × 10-4), and ADHD in both AAs (padj = 3.0 × 10-33) and EAs 
+(padj = 6.7 × 10-35). Our results implicate novel genes and pathways as having 
+roles in the etiology of stimulant dependence.
+
+DOI: 10.1038/s41398-021-01440-5
+PMCID: PMC8257618
+PMID: 34226506 [Indexed for MEDLINE]
+
+Conflict of interest statement: R.K. is a member of an advisory board for 
+Dicerna Pharmaceuticals and of the American Society of Clinical 
+Psychopharmacology’s Alcohol Clinical Trials Initiative, which in the past 3 
+years was sponsored by AbbVie, Alkermes, Amygdala Neurosciences, Arbor 
+Pharmaceuticals, Ethypharm, Indivior, Lilly, Lundbeck, Otsuka, and Pfizer. R.K. 
+and J.G. are named as inventors on PCT patent application #15/878,640 entitled: 
+“Genotype-guided dosing of opioid agonists,” filed January 24, 2018. Other 
+authors do not report any conflicts of interest.
+
+
+18. Brain Res Bull. 2006 Feb 15;68(6):393-405. doi: 
+10.1016/j.brainresbull.2005.10.005. Epub 2005 Oct 27.
+
+The role of age, genotype, sex, and route of acute and chronic administration of 
+methylphenidate: a review of its locomotor effects.
+
+Dafny N(1), Yang PB.
+
+Author information:
+(1)Department of Neurobiology and Anatomy, The University of Texas Medical 
+School at Houston, P.O. Box 20708, Houston, TX 77225, USA. 
+Nachum.Dafny@uth.tmc.edu
+
+Children with attention deficit hyperactivity disorder (ADHD) are treated for 
+extended periods of time with the psychostimulant methylphenidate (MPD). The 
+psychostimulants cocaine, amphetamine, and MPD exhibit similar structural 
+configuration and pharmacological profile. The consequence of the long-term use 
+of psychostimulants such as MPD as treatment for ADHD in the developing brain of 
+children is unknown. Repeated treatment with psychostimulants has been shown to 
+elicit adverse effects in behavior, such as dependence, paranoia, schizophrenia, 
+and behavioral sensitization. Behavioral sensitization and cross-sensitization 
+between two drugs are used as experimental markers to determine the potential of 
+a drug to develop dependence/addiction. Although there are many reviews written 
+about behavioral sensitization involving psychostimulants, scarcely any have 
+focused specifically on MPD-elicited behavioral sensitization and 
+cross-sensitization with other psychostimulants. Moreover, the response to MPD 
+and the expression of ADHD vary among females and males and among different 
+populations due to genetic variability. Since the interpretation and synthesis 
+of the data reported are controversial, this review focuses on the adverse 
+effects of MPD and the role of age, sex, and genetic composition on the acute 
+and chronic effects of MPD, such as MPD-elicited behavioral sensitization and 
+cross-sensitization with amphetamine in animal models. Animal models of 
+drug-induced locomotor stimulation, particularly locomotor sensitization, can be 
+used to understand the mechanisms underlying human drug-induced dependence.
+
+DOI: 10.1016/j.brainresbull.2005.10.005
+PMID: 16459193 [Indexed for MEDLINE]
+
+
+19. Neuropsychopharmacology. 2008 Dec;33(13):3027-9. doi: 10.1038/npp.2008.189. Epub 
+2008 Oct 15.
+
+Does COMT val158met affect behavioral phenotypes: yes, no, maybe?
+
+Lachman HM(1).
+
+Author information:
+(1)Department of Psychiatry and Behavioral Sciences, Albert Einstein College of 
+Medicine, Bronx, NY, USA. Lachman@aecom.yu.edu
+
+The COMT gene functional polymorphism val(158)met is one of the most intensively 
+studied variants in psychiatric genetics. Due to small effect size and various 
+methodological issues, its role in various psychiatric disorders and behavioral 
+traits has still not been unequivocally established. In this issue of 
+Neuropsychopharmacology, several studies are presented supporting a role for 
+COMT as a factor in cocaine addiction, brain reward activation, response to 
+tolcapone, distractibility in ADHD, and fMRI bold response. The studies make 
+important contributions to the growing literature that aim to establish an 
+effect of this functional variant on behavioral phenotypes and treatment 
+response.
+
+DOI: 10.1038/npp.2008.189
+PMID: 18923401 [Indexed for MEDLINE]
+
+
+20. Am J Med Genet. 1999 Aug 20;88(4):358-68. doi: 
+10.1002/(sici)1096-8628(19990820)88:4<358::aid-ajmg13>3.0.co;2-g.
+
+Studies of the 48 bp repeat polymorphism of the DRD4 gene in impulsive, 
+compulsive, addictive behaviors: Tourette syndrome, ADHD, pathological gambling, 
+and substance abuse.
+
+Comings DE(1), Gonzalez N, Wu S, Gade R, Muhleman D, Saucier G, Johnson P, Verde 
+R, Rosenthal RJ, Lesieur HR, Rugle LJ, Miller WB, MacMurray JP.
+
+Author information:
+(1)Department of Medical Genetics, City of Hope Medical Center, Duarte, 
+California 91010, USA.
+
+Prior studies have reported an association between the presence of the 7 repeat 
+allele of the 48 bp repeat polymorphism of the third cytoplasmic loop of the 
+dopamine D4 receptor gene (DRD4) and novelty seeking behaviors, attention 
+deficit hyperactivity disorder (ADHD), Tourette syndrome (TS), pathological 
+gambling, and substance abuse. However, other studies have failed to replicate 
+some of these observations. To determine whether we could replicate these 
+associations we genotyped 737 individuals from four different groups of control 
+subjects, and 707 index subjects from four different groups of impulsive, 
+compulsive addictive behaviors including substance abuse, pathological gambling, 
+TS, and ADHD. Chi-square analysis of those carrying the 7 allele versus non-7 
+allele carriers was not significant for any of the groups using a Bonferroni 
+corrected alpha of.0125. However, chi-square analysis of those carrying any 5 to 
+8 allele versus noncarriers was significant for pathological gambling (p 
+<.0001), ADHD (p </=.01) and the total index group (p </=.0004). When the 
+comparison included all 7 alleles the results were significant for gamblers (p 
+<.0001), TS (p </=.003), ADHD (p </=.003), and the total group (p </=.0002). 
+There was a significant increase in the frequency of heterozygosity versus 
+homozygosity for all alleles for pathological gamblers (p </=.0031) and the 
+total index group (p </=.0015), suggesting that heterosis played a role. In the 
+substance abuse subjects a quantitative summary variable for the severity of 
+drug dependence, based on the Addiction Severity Index, showed that the scores 
+varied by increasing severity across the following genotypes: 44 </= 
+heterozygotes </= 77 </= 22. Studies of other quantitative traits indicated an 
+important role for the 2 allele and the 22, 24, and 27 genotypes. All studies 
+indicated that the role of the DRD4 gene in impulsive, compulsive, addictive 
+behaviors is more complex than a sole focus on the 7 versus non-7 alleles.
+
+Copyright 1999 Wiley-Liss, Inc.
+
+DOI: 10.1002/(sici)1096-8628(19990820)88:4<358::aid-ajmg13>3.0.co;2-g
+PMID: 10402503 [Indexed for MEDLINE]
+
+
+21. Addiction. 2020 Jul;115(7):1368-1377. doi: 10.1111/add.14910. Epub 2020 Jan 8.
+
+Genetic liability to ADHD and substance use disorders in individuals with ADHD.
+
+Wimberley T(1)(2), Agerbo E(1)(2)(3), Horsdal HT(1)(2), Ottosen C(1)(2), Brikell 
+I(1)(2), Als TD(1)(4)(5), Demontis D(1)(4)(5), Børglum AD(1)(4)(5), Nordentoft 
+M(1)(6), Mors O(1)(7), Werge T(1)(8)(9), Hougaard D(1)(10), Bybjerg-Grauholm 
+J(1)(10), Hansen MB(1)(10), Mortensen PB(1)(2)(3), Thapar A(11), Riglin L(11), 
+Langley K(11)(12), Dalsgaard S(1)(2)(3).
+
+Author information:
+(1)iPSYCH - The Lundbeck Foundation Initiative for Integrative Psychiatric 
+Research, Copenhagen and Aarhus, Denmark.
+(2)NCRR - National Centre for Register-based Research, Department of Economics 
+and Business Economics, Aarhus University, Aarhus, Denmark.
+(3)CIRRAU - Centre for Integrated Register-based Research, Aarhus University, 
+Aarhus, Denmark.
+(4)Department of Biomedicine and Centre for Integrative Sequencing, iSEQ, Aarhus 
+University, Aarhus, Denmark.
+(5)Center for Genomics and Personalized Medicine, Central Region Denmark and 
+Aarhus University, Aarhus, Denmark.
+(6)Mental Health Center Copenhagen, Copenhagen University Hospital, Copenhagen, 
+Denmark.
+(7)Psychosis Research Unit, Aarhus University Hospital, Aarhus, Denmark.
+(8)Institute of Biological Psychiatry, MHC Sct. Hans, Mental Health Services 
+Copenhagen, Roskilde, Denmark.
+(9)Department of Clinical Medicine, University of Copenhagen, Copenhagen, 
+Denmark.
+(10)Department for Congenital Disorders, Statens Serum Institut, Danish Center 
+for Neonatal Screening, Copenhagen, Denmark.
+(11)Division of Psychological Medicine and Clinical Neurosciences, MRC Centre 
+for Neuropsychiatric Genetics and Genomics, Cardiff University, Cardiff, UK.
+(12)School of Psychology, Cardiff University, Cardiff, UK.
+
+AIMS: 1) To investigate whether genetic liability to 
+attention-deficit/hyperactivity disorder (ADHD), indexed by polygenic risk 
+scores for ADHD (PRS-ADHD), is associated with substance use disorders (SUD) in 
+individuals with ADHD. 2) To investigate whether other individual- or 
+family-related risk factors for SUD could mediate or confound this association.
+DESIGN: Population-based cohort study SETTING AND PARTICIPANTS: ADHD cases in 
+the iPSYCH sample (a Danish case-cohort sample of genotyped cases with specific 
+mental disorders), born in Denmark between 1981 and 2003 (N = 13 116). 
+Register-based information on hospital diagnoses of SUD was available until 
+December 31, 2016.
+MEASUREMENTS: We estimated odds ratios (ORs) with 95% confidence intervals (CIs) 
+for any SUD as well as for different SUD types (alcohol, cannabis, and other 
+illicit drugs) and severities (use, abuse, and addiction), with effect sizes 
+corresponding to a comparison of the highest PRS-ADHD decile to the lowest.
+FINDINGS: PRS-ADHD were associated with any SUD (OR = 1.30, 95% CI: 1.11-1.51). 
+Estimates were similar across different types and severity levels of SUD. Other 
+risk factors for SUD (male sex, age at ADHD diagnosis, comorbid conduct 
+problems, and parental factors including SUD, mental disorders, and 
+socio-economic status) were independently associated with increased risk of SUD. 
+PRS-ADHD explained a minor proportion of the variance in SUD (0.2% on the 
+liability scale) compared to the other risk factors. The association between 
+PRS-ADHD and any SUD was slightly attenuated (OR = 1.21, 95% CI: 1.03-1.41) 
+after adjusting for the other risk factors for SUD. Furthermore, associations 
+were nominally higher in females than in males (ORfemales  = 1.59, 95% CI: 
+1.19-2.12, ORmales  = 1.18, 95% CI: 0.98-1.42).
+CONCLUSIONS: A higher genetic liability to attention-deficit/hyperactivity 
+disorder appears to be associated with higher risks of substance use disorders 
+in individuals with attention-deficit/hyperactivity disorder.
+
+© 2019 Society for the Study of Addiction.
+
+DOI: 10.1111/add.14910
+PMID: 31803957 [Indexed for MEDLINE]
+
+
+22. Biochem Cell Biol. 2018 Apr;96(2):213-221. doi: 10.1139/bcb-2017-0085. Epub 2017 
+Nov 1.
+
+Postnatal nutritional treatment of neurocognitive deficits in fetal alcohol 
+spectrum disorder.
+
+Bastons-Compta A(1)(1), Astals M(1)(1), Andreu-Fernandez V(1)(1), Navarro-Tapia 
+E(1)(1), Garcia-Algar O(1)(1).
+
+Author information:
+(1)Neonatology Unit, Hospital Clinic-Maternitat, ICGON, Grup de Recerca Infancia 
+i Entorn (GRIE), BCNatal, Barcelona, Spain.
+
+Ethanol is the most important teratogen agent in humans. Prenatal alcohol 
+exposure can lead to a wide range of adverse effects, which are broadly termed 
+as fetal alcohol spectrum disorder (FASD). The most severe consequence of 
+maternal alcohol abuse is the development of fetal alcohol syndrome, defined by 
+growth retardation, facial malformations, and central nervous system impairment 
+expressed as microcephaly and neurodevelopment abnormalities. These alterations 
+generate a broad range of cognitive abnormalities such as learning disabilities 
+and hyperactivity and behavioural problems. Socioeconomic status, ethnicity, 
+differences in genetic susceptibility related to ethanol metabolism, alcohol 
+consumption patterns, obstetric problems, and environmental influences like 
+maternal nutrition, stress, and other co-administered drugs are all factors that 
+may influence FASD manifestations. Recently, much attention has been paid to the 
+role of nutrition as a protective factor against alcohol teratogenicity. There 
+are a great number of papers related to nutritional treatment of nutritional 
+deficits due to several factors associated with maternal consumption of alcohol 
+and with eating and social disorders in FASD children. Although research showed 
+the clinical benefits of nutritional interventions, most of work was in animal 
+models, in a preclinical phase, or in the prenatal period. However, a minimum 
+number of studies refer to postnatal nutrition treatment of neurodevelopmental 
+deficits. Nutritional supplementation in children with FASD has a dual 
+objective: to overcome nutritional deficiencies and to reverse or improve the 
+cognitive deleterious effects of prenatal alcohol exposure. Further research is 
+necessary to confirm positive results, to determine optimal amounts of nutrients 
+needed in supplementation, and to investigate the collective effects of 
+simultaneous multiple-nutrient supplementation.
+
+DOI: 10.1139/bcb-2017-0085
+PMID: 29091739 [Indexed for MEDLINE]
+
+
+23. Prog Brain Res. 2000;126:325-41. doi: 10.1016/S0079-6123(00)26022-6.
+
+Reward deficiency syndrome: genetic aspects of behavioral disorders.
+
+Comings DE(1), Blum K.
+
+Author information:
+(1)Department of Medical Genetics, City of Hope Medical Center, Duarte, CA 
+91010, USA. dcomings@earthlink.net
+
+The dopaminergic and opioidergic reward pathways of the brain are critical for 
+survival since they provide the pleasure drives for eating, love and 
+reproduction; these are called 'natural rewards' and involve the release of 
+dopamine in the nucleus accumbens and frontal lobes. However, the same release 
+of dopamine and production of sensations of pleasure can be produced by 
+'unnatural rewards' such as alcohol, cocaine, methamphetamine, heroin, nicotine, 
+marijuana, and other drugs, and by compulsive activities such as gambling, 
+eating, and sex, and by risk taking behaviors. Since only a minority of 
+individuals become addicted to these compounds or behaviors, it is reasonable to 
+ask what factors distinguish those who do become addicted from those who do not. 
+It has usually been assumed that these behaviors are entirely voluntary and that 
+environmental factors play the major role; however, since all of these behaviors 
+have a significant genetic component, the presence of one or more variant genes 
+presumably act as risk factors for these behaviors. Since the primary 
+neurotransmitter of the reward pathway is dopamine, genes for dopamine 
+synthesis, degradation, receptors, and transporters are reasonable candidates. 
+However, serotonin, norepinephrine, GABA, opioid, and cannabinoid neurons all 
+modify dopamine metabolism and dopamine neurons. We have proposed that defects 
+in various combinations of the genes for these neurotransmitters result in a 
+Reward Deficiency Syndrome (RDS) and that such individuals are at risk for abuse 
+of the unnatural rewards. Because of its importance, the gene for the [figure: 
+see text] dopamine D2 receptor was a major candidate gene. Studies in the past 
+decade have shown that in various subject groups the Taq I A1 allele of the DRD2 
+gene is associated with alcoholism, drug abuse, smoking, obesity, compulsive 
+gambling, and several personality traits. A range of other dopamine, opioid, 
+cannabinoid, norepinephrine, and related genes have since been added to the 
+list. Like other behavioral disorders, these are polygenically inherited and 
+each gene accounts for only a small per cent of the variance. Techniques such as 
+the Multivariate Analysis of Associations, which simultaneously examine the 
+contribution of multiple genes, hold promise for understanding the genetic make 
+up of polygenic disorders.
+
+DOI: 10.1016/S0079-6123(00)26022-6
+PMID: 11105655 [Indexed for MEDLINE]
+
+
+24. Adolesc Med State Art Rev. 2008 Aug;19(2):242-53, viii.
+
+Substance use disorders in adolescents with attention-deficit/hyperactivity 
+disorder.
+
+Bukstein O(1).
+
+Author information:
+(1)Department of Psychiatry, Western Psychiatric Institute and Clinic, 
+University of Pittsburgh, 3811 O'Hara Street, Pittsburgh, PA 15213, USA. 
+buksteinog@upmc.edu
+
+Attention-deficit/hyperactivity disorder and substance use disorders are 
+commonly observed together, particularly in clinical populations of adolescents. 
+The co-occurrence of these problems is common and presents challenges for the 
+clinician in assessment and management. This article will review the extent of 
+the problem, the relationship in terms of risk and prognosis, and management 
+issues, including the use of stimulant and nonstimulant medications and the risk 
+of abuse, misuse, and diversion.
+
+PMID: 18822830 [Indexed for MEDLINE]
+
+
+25. Eur Child Adolesc Psychiatry. 2010 Mar;19(3):199-210. doi: 
+10.1007/s00787-009-0082-z. Epub 2009 Dec 19.
+
+From nature versus nurture, via nature and nurture, to gene x environment 
+interaction in mental disorders.
+
+Wermter AK(1), Laucht M, Schimmelmann BG, Banaschewski T, Sonuga-Barke EJ, 
+Rietschel M, Becker K.
+
+Author information:
+(1)Department of Child and Adolescent Psychiatry and Psychotherapy, 
+Philipps-University of Marburg, Hans-Sachs-Strasse 6, Marburg, Germany. 
+Anne-Kathrin.Wermter@med.uni-marburg.de
+
+Erratum in
+    Eur Child Adolesc Psychiatry. 2014 Nov;23(11):1117. Banaschweski, Tobias 
+[corrected to Banaschewski, Tobias].
+
+It is now generally accepted that complex mental disorders are the results of 
+interplay between genetic and environmental factors. This holds out the prospect 
+that by studying G x E interplay we can explain individual variation in 
+vulnerability and resilience to environmental hazards in the development of 
+mental disorders. Furthermore studying G x E findings may give insights in 
+neurobiological mechanisms of psychiatric disorder and so improve individualized 
+treatment and potentially prevention. In this paper, we provide an overview of 
+the state of field with regard to G x E in mental disorders. Strategies for G x 
+E research are introduced. G x E findings from selected mental disorders with 
+onset in childhood or adolescence are reviewed [such as depressive disorders, 
+attention-deficit/hyperactivity disorder (ADHD), obesity, schizophrenia and 
+substance use disorders]. Early seminal studies provided evidence for G x E in 
+the pathogenesis of depression implicating 5-HTTLPR, and conduct problems 
+implicating MAOA. Since then G x E effects have been seen across a wide range of 
+mental disorders (e.g., ADHD, anxiety, schizophrenia, substance abuse disorder) 
+implicating a wide range of measured genes and measured environments (e.g., 
+pre-, peri- and postnatal influences of both a physical and a social nature). To 
+date few of these G x E effects have been sufficiently replicated. Indeed 
+meta-analyses have raised doubts about the robustness of even the most well 
+studied findings. In future we need larger, sufficiently powered studies that 
+include a detailed and sophisticated characterization of both phenotype and the 
+environmental risk.
+
+DOI: 10.1007/s00787-009-0082-z
+PMID: 20024596 [Indexed for MEDLINE]
+
+
+26. Psychiatr Clin North Am. 1998 Dec;21(4):761-74, v. doi: 
+10.1016/s0193-953x(05)70039-3.
+
+Attention-deficit hyperactivity disorder in adults.
+
+Wender PH(1).
+
+Author information:
+(1)Department of Psychiatry, University of Utah School of Medicine, Salt Lake 
+City, USA.
+
+Attention-deficit hyperactivity disorder (ADHD) is probably the most common 
+chronic undiagnosed psychiatric disorder in adults. It is characterized by 
+inattention and distractibility, restlessness, labile mood, quick temper, 
+overactivity, disorganization, and impulsivity. It is always preceded by the 
+childhood diagnosis, a disorder that is rarely inquired about, and usually 
+overlooked. Treatment can be dramatically effective. Approximately two thirds of 
+adult ADHD patients experience moderate-to-marked improvement with 
+psychoeducational management and stimulant drug therapy.
+
+DOI: 10.1016/s0193-953x(05)70039-3
+PMID: 9890120 [Indexed for MEDLINE]
+
+
+27. Behav Brain Funct. 2015 Jun 11;11:21. doi: 10.1186/s12993-015-0066-8.
+
+A 40-bp VNTR polymorphism in the 3'-untranslated region of DAT1/SLC6A3 is 
+associated with ADHD but not with alcoholism.
+
+Šerý O(1)(2), Paclt I(3), Drtílková I(4), Theiner P(5), Kopečková M(6), Zvolský 
+P(7), Balcar VJ(8).
+
+Author information:
+(1)Laboratory of Neurobiology and Molecular Psychiatry, Department of 
+Biochemistry, Faculty of Science, Masaryk University, Kotlářská 2, 611 37, Brno, 
+Czech Republic. omarsery@sci.muni.cz.
+(2)Institute of Animal Physiology and Genetics, Academy of Science, Veveří 97, 
+602 00, Brno, Czech Republic. omarsery@sci.muni.cz.
+(3)Department of Psychiatry, 1st Faculty of Medicine, Charles University, Ke 
+Karlovu 11, 121 08, Prague, Czech Republic. ivopaclt@seznam.cz.
+(4)Department of Psychiatry, Masaryk University, Faculty of Medicine, Kamenice 
+5, 625 00, Brno, Czech Republic. idrtilkova@fnbrno.cz.
+(5)Department of Psychiatry, Masaryk University, Faculty of Medicine, Kamenice 
+5, 625 00, Brno, Czech Republic. ptheiner@fnbrno.cz.
+(6)Department of Psychiatry, 1st Faculty of Medicine, Charles University, Ke 
+Karlovu 11, 121 08, Prague, Czech Republic. Marta.Kopeckova@seznam.cz.
+(7)Department of Psychiatry, 1st Faculty of Medicine, Charles University, Ke 
+Karlovu 11, 121 08, Prague, Czech Republic. p.zvolsky@seznam.cz.
+(8)Laboratory of Neurochemistry, School of Medical Sciences (Discipline of 
+Anatomy and Histology) and Bosch Institute, Sydney Medical School, The 
+University of Sydney, Sydney, NSW 2006, Australia. vibar@anatomy.usyd.edu.au.
+
+BACKGROUND: ADHD and alcoholism are psychiatric diseases with pathophysiology 
+related to dopamine system. DAT1 belongs to the SLC6 family of transporters and 
+is involved in the regulation of extracellular dopamine levels. A 40 bp variable 
+number tandem repeat (VNTR) polymorphism in the 3'-untranslated region of 
+DAT1/SLC6A3 gene was previously reported to be associated with various 
+phenotypes involving disturbed regulation of dopaminergic neurotransmission.
+METHODS: A total of 1312 subjects were included and genotyped for 40 bp VNTR 
+polymorphism of DAT1/SLC6A3 gene in this study (441 alcoholics, 400 
+non-alcoholic controls, 218 ADHD children and 253 non ADHD children). Using 
+miRBase software, we have performed a computer analysis of VNTR part of DAT1 
+gene for presence of miRNA binding sites.
+RESULTS: We have found significant relationships between ADHD and the 40 bp VNTR 
+polymorphisms of DAT1/SLC6A3 gene (P < 0.01). The 9/9 genotype appeared to 
+reduce the risk of ADHD about 0.4-fold (p < 0.04). We also noted an occurrence 
+of rare genotypes in ADHD (frequency different from controls at p < 0.01). No 
+association between alcoholism and genotype frequencies of 40 bp VNTR 
+polymorphism of DAT1/SLC6A3 gene has been detected.
+CONCLUSIONS: We have found an association between 40 bp VNTR polymorphism of 
+DAT1/SLC6A3 gene and ADHD in the Czech population; in a broad agreement with 
+studies in other population samples. Furthermore, we detected rare genotypes 
+8/10, 7/10 and 10/11 present in ADHD boys only and identified miRNAs that should 
+be looked at as potential novel targets in the research on ADHD.
+
+DOI: 10.1186/s12993-015-0066-8
+PMCID: PMC4472402
+PMID: 26058807 [Indexed for MEDLINE]
+
+
+28. Biol Psychiatry. 2007 Jun 15;61(12):1329-39. doi: 
+10.1016/j.biopsych.2006.06.026. Epub 2006 Sep 1.
+
+Attention-deficit/hyperactivity disorder and comorbid disruptive behavior 
+disorders: evidence of pleiotropy and new susceptibility loci.
+
+Jain M(1), Palacio LG, Castellanos FX, Palacio JD, Pineda D, Restrepo MI, Muñoz 
+JF, Lopera F, Wallis D, Berg K, Bailey-Wilson JE, Arcos-Burgos M, Muenke M.
+
+Author information:
+(1)Medical Genetics Branch, National Human Genome Research Institute, National 
+Institutes of Health, Bethesda, MD 20892-3717, USA.
+
+BACKGROUND: Attention-deficit/hyperactivity disorder (ADHD) comorbid with 
+oppositional defiant disorder (ODD) or conduct disorder (CD) and substance 
+abuse/dependence seems to represent a specific subset within the phenotypic ADHD 
+spectrum.
+METHODS: We applied complex segregation and linkage analyses in a set of 
+multigenerational families densely segregating ADHD comorbid with ODD, CD, 
+alcohol abuse/dependence, and nicotine dependence.
+RESULTS: Our data suggest that ADHD cosegregates with disruptive behaviors as a 
+unique, phenotypically variable trait as evidenced by highly significant 
+pair-wise linkages among: ADHD and ODD (logarithm of odds [LOD]=14.19), ADHD and 
+CD (LOD=5.34), ODD and CD (LOD=6.68), and CD and alcohol abuse/dependence 
+(LOD=3.98). In addition to previously reported ADHD susceptibility loci, we 
+found evidence of linkage for comorbid ADHD phenotypes to loci at 8q24, 
+2p21-22.3, 5p13.1-p13.3, 12p11.23-13.3, 8q15, and 14q21.1-22.2. These results 
+were replicated with an affected status phenotype derived from latent class 
+clusters.
+CONCLUSIONS: Patterns of cosegregation of ADHD with comorbidities can inform our 
+understanding of the inheritance patterns not only of ADHD but also of 
+disruptive behavioral disorders and alcohol abuse/dependence. Refining the 
+comorbid ADHD phenotype by determining the cosegregation profile of specific 
+comorbidities might be a powerful tool for defining significant regions of 
+linkage.
+
+DOI: 10.1016/j.biopsych.2006.06.026
+PMID: 16950213 [Indexed for MEDLINE]
+
+
+29. Transl Psychiatry. 2021 Mar 4;11(1):157. doi: 10.1038/s41398-021-01260-7.
+
+Differential predictors for alcohol use in adolescents as a function of familial 
+risk.
+
+Tschorn M(1), Lorenz RC(1), O'Reilly PF(2)(3), Reichenberg A(4), Banaschewski 
+T(5), Bokde ALW(6), Quinlan EB(7), Desrivières S(7), Flor H(8)(9), Grigis A(10), 
+Garavan H(11), Gowland P(12), Ittermann B(13), Martinot JL(14), Artiges E(15), 
+Nees F(5)(8)(16), Papadopoulos Orfanos D(10), Poustka L(17), Millenet S(5), 
+Fröhner JH(18), Smolka MN(18), Walter H(19), Whelan R(20), Schumann G(2)(7)(21), 
+Heinz A(19), Rapp MA(22); IMAGEN Consortium.
+
+Collaborators: Robbins T, Dalley J, Subramaniam N, Theobald D, Mann K, Bach C, 
+Struve M, Banaschewski T, Flor H, Rietschel M, Spanagel R, Nees F, Fauth-Bühler 
+M, Millenet S, Grimmer Y, Poustka L, Lathrop M, Heinz A, Albrecht L, Ivanov N, 
+Strache N, Rapp M, Ströhle A, Reuter J, Gallinat J, Walter H, Gemmeke I, Genauck 
+A, Parchetka C, Weiß K, Kruschwitz J, Raffaelli B, Isci A, Daedelow L, Barbot A, 
+Thyreau B, Schwartz Y, Lalanne C, Frouin V, Orfanos DP, Grigis A, Rogers J, 
+Ireland J, Lanzerath D, Feng J, Martinot JL, Bricaud Z, Briand FG, LemaÎtre H, 
+Miranda R, Artiges E, Massicotte J, Martinot MP, Vulser H, Pentillä J, Filippi 
+I, Galinowski A, Bezivin P, Schumann G, Cattrell A, Jia T, Desrivières S, Werts 
+H, Topper L, Reed L, Andrew C, Mallik C, Ruggeri B, Nymberg C, Barker G, Conrod 
+PJ, Smith L, Loth E, Havatzias S, Shekarrizi S, Kitson E, Robinson A, Hall D, 
+Rubino C, Wright H, Stueber K, Hanratty E, Kennedy E, de Carvahlo FM, Stringaris 
+A, Robert G, Ing A, Macare C, Xu B, Yu T, Quinlan EB, Constant P, Aydin S, Brühl 
+R, Ihlenfeld A, Walaszek B, Ittermann B, Smolka M, Hübner T, Müller K, Ripke S, 
+Jurk S, Mennigen E, Schmidt D, Vetter N, Ziesch V, Fröhner JH, Garavan H, Bokde 
+ALW, Whelan R, Carter D, Walsh E, O'Driscoll S, Agan MLF, McMorrow M, Nugent S, 
+Connolly C, Dooley E, Cremen C, Jones J, O'Keefe J, O'Connor M, Poline JB, 
+Büchel C, Bromberg U, Fadai T, Yacubian J, Schneider S, Lobatchewa M, Lawrence 
+C, Newman C, Head K, Heym N, Gowland P, Stedman A, Kaviani M, Taplin S, Stephens 
+D, Paus T, Pausova Z, Tahmasebi A.
+
+Author information:
+(1)Social and Preventive Medicine, Department of Sports and Health Sciences, 
+Intra-faculty unit "Cognitive Sciences", Faculty of Human Science, and Faculty 
+of Health Sciences Brandenburg, Research Area Services Research and e-Health, 
+University of Potsdam, Potsdam, Germany.
+(2)Social, Genetic and Developmental Psychiatry Centre, Institute of Psychiatry, 
+Psychology and Neuroscience, King's College London, London, UK.
+(3)Department of Genetics and Genomic Sciences, Icahn School of Medicine at 
+Mount Sinai, New York, NY, USA.
+(4)Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, 
+NY, USA.
+(5)Department of Child and Adolescent Psychiatry and Psychotherapy, Central 
+Institute of Mental Health, Medical Faculty Mannheim, Heidelberg University, 
+Square J5, 68159, Mannheim, Germany.
+(6)Discipline of Psychiatry, School of Medicine and Trinity College Institute of 
+Neuroscience, Trinity College Dublin, Dublin, Ireland.
+(7)Centre for Population Neuroscience and Precision Medicine (PONS), Institute 
+of Psychiatry, Psychology & Neuroscience, SGDP Centre, King's College London, 
+London, UK.
+(8)Institute of Cognitive and Clinical Neuroscience, Central Institute of Mental 
+Health, Medical Faculty Mannheim, Heidelberg University, Square J5, Mannheim, 
+Germany.
+(9)Department of Psychology, School of Social Sciences, University of Mannheim, 
+68131, Mannheim, Germany.
+(10)NeuroSpin, CEA, Université Paris-Saclay, F-91191, Gif-sur-Yvette, France.
+(11)Departments of Psychiatry and Psychology, University of Vermont, 05405, 
+Burlington, VT, USA.
+(12)Sir Peter Mansfield Imaging Centre School of Physics and Astronomy, 
+University of Nottingham, University Park, Nottingham, UK.
+(13)Physikalisch-Technische Bundesanstalt (PTB), Braunschweig and Berlin, 
+Berlin, Germany.
+(14)Institut National de la Santé et de la Recherche Médicale, INSERM U1299 
+"Trajectoires développementales & psychiatrie", University Paris Saclay, Ecole 
+Normale supérieure Paris-Saclay, CNRS, Centre Borelli, Gif-sur-Yvette, France.
+(15)Institut National de la Santé et de la Recherche Médicale, INSERM U1299 
+"Trajectoires développementales & psychiatrie", University Paris Saclay, Ecole 
+Normale supérieure Paris-Saclay, CNRS, Centre Borelli; and Psychiatry 
+Department, EPS Barthélémy Durand, Etampes, France.
+(16)Institute of Medical Psychology and Medical Sociology, University Medical 
+Center Schleswig Holstein, Kiel University, Kiel, Germany.
+(17)Department of Child and Adolescent Psychiatry and Psychotherapy, University 
+Medical Centre Göttingen, von-Siebold-Str. 5, 37075, Göttingen, Germany.
+(18)Department of Psychiatry and Neuroimaging Center, Technische Universität 
+Dresden, Dresden, Germany.
+(19)Department of Psychiatry and Psychotherapy CCM, Charité - 
+Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, 
+Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.
+(20)School of Psychology and Global Brain Health Institute, Trinity College 
+Dublin, Dublin, Ireland.
+(21)PONS Research Group, Dept of Psychiatry and Psychotherapy, Campus Charite 
+Mitte, Humboldt University, Berlin and Leibniz Institute for Neurobiology, 
+Magdeburg, Germany, and Institute for Science and Technology of Brain-inspired 
+Intelligence (ISTBI), Fudan University, Shanghai, PR China.
+(22)Social and Preventive Medicine, Department of Sports and Health Sciences, 
+Intra-faculty unit "Cognitive Sciences", Faculty of Human Science, and Faculty 
+of Health Sciences Brandenburg, Research Area Services Research and e-Health, 
+University of Potsdam, Potsdam, Germany. Michael.Rapp@uni-potsdam.de.
+
+Traditional models of future alcohol use in adolescents have used 
+variable-centered approaches, predicting alcohol use from a set of variables 
+across entire samples or populations. Following the proposition that predictive 
+factors may vary in adolescents as a function of family history, we used a 
+two-pronged approach by first defining clusters of familial risk, followed by 
+prediction analyses within each cluster. Thus, for the first time in 
+adolescents, we tested whether adolescents with a family history of drug abuse 
+exhibit a set of predictors different from adolescents without a family history. 
+We apply this approach to a genetic risk score and individual differences in 
+personality, cognition, behavior (risk-taking and discounting) substance use 
+behavior at age 14, life events, and functional brain imaging, to predict scores 
+on the alcohol use disorders identification test (AUDIT) at age 14 and 16 in a 
+sample of adolescents (N = 1659 at baseline, N = 1327 at follow-up) from the 
+IMAGEN cohort, a longitudinal community-based cohort of adolescents. In the 
+absence of familial risk (n = 616), individual differences in baseline drinking, 
+personality measures (extraversion, negative thinking), discounting behaviors, 
+life events, and ventral striatal activation during reward anticipation were 
+significantly associated with future AUDIT scores, while the overall model 
+explained 22% of the variance in future AUDIT. In the presence of familial risk 
+(n = 711), drinking behavior at age 14, personality measures (extraversion, 
+impulsivity), behavioral risk-taking, and life events were significantly 
+associated with future AUDIT scores, explaining 20.1% of the overall variance. 
+Results suggest that individual differences in personality, cognition, life 
+events, brain function, and drinking behavior contribute differentially to the 
+prediction of future alcohol misuse. This approach may inform more 
+individualized preventive interventions.
+
+DOI: 10.1038/s41398-021-01260-7
+PMCID: PMC7933140
+PMID: 33664233 [Indexed for MEDLINE]
+
+Conflict of interest statement: T.B. served in an advisory or consultancy role 
+for ADHD digital, Infectophar, Lundbeck, Medice, Neurim Pharmaceuticals, 
+Oberberg GmbH, Roche, and Takeda. He received conference support or speaker’s 
+fee by Medice and TakedaShire. He received royalties from Hogrefe, Kohlhammer, 
+CIP Medien, Oxford University Press. The present work is unrelated to the above 
+grants and relationships. L.P. served in an advisory or consultancy role for 
+Roche and Viforpharm and received speaker’s fee by Shire. She received royalties 
+from Hogrefe, Kohlhammer and Schattauer. The present work is unrelated to the 
+above grants and relationships. The other authors report no biomedical financial 
+interests or potential conflicts of interest.
+
+
+30. Hum Genet. 2012 Jun;131(6):917-29. doi: 10.1007/s00439-012-1164-4. Epub 2012 Apr 
+11.
+
+A common genetic network underlies substance use disorders and disruptive or 
+externalizing disorders.
+
+Arcos-Burgos M(1), Vélez JI, Solomon BD, Muenke M.
+
+Author information:
+(1)Medical Genetics Branch, National Human Genome Research Institute, National 
+Institutes of Health, Bethesda, MD 20892-3717, USA. arcosburgosm@mail.nih.gov
+
+Here we summarize evidence obtained by our group during the last two decades, 
+and contrasted it with a review of related data from the available literature to 
+show that behavioral syndromes involving attention deficit/hyperactivity 
+disorder (ADHD), externalizing disorders, and substance-use disorder (SUD) share 
+similar signs and symptoms (i.e., have a biological basis as common syndromes), 
+physiopathological and psychopathological mechanisms, and genetic factors. 
+Furthermore, we will show that the same genetic variants harbored in different 
+genes are associated with different syndromes and that non-linear interactions 
+between genetic variants (epistasis) best explain phenotype severity, long-term 
+outcome, and response to treatment. These data have been depicted in our studies 
+by extended pedigrees, where ADHD, externalizing symptoms, and SUD segregate and 
+co-segregate. Finally, we applied here a new formal network analysis using the 
+set of significantly replicated genes that have been shown to be either 
+associated and/or linked to ADHD, disruptive behaviors, and SUD in order to 
+detect significantly enriched gene categories for protein and genetic 
+interactions, pathways, co-expression, co-localization, and protein domain 
+similarity. We found that networks related to pathways involved in axon 
+guidance, regulation of synaptic transmission, and regulation of transmission of 
+nerve impulse are overrepresented. In summary, we provide compiled evidence of 
+complex networks of genotypes underlying a wide phenotype that involves SUD and 
+externalizing disorders.
+
+DOI: 10.1007/s00439-012-1164-4
+PMCID: PMC3351604
+PMID: 22492058 [Indexed for MEDLINE]
+
+
+31. Am J Med Genet B Neuropsychiatr Genet. 2021 Apr;186(3):140-150. doi: 
+10.1002/ajmg.b.32827. Epub 2020 Nov 27.
+
+Genetic overlap and causality between substance use disorder and 
+attention-deficit and hyperactivity disorder.
+
+Vilar-Ribó L(1)(2), Sánchez-Mora C(1)(2)(3)(4), Rovira P(1)(2), Richarte 
+V(2)(3)(5), Corrales M(2)(3)(5), Fadeuilhe C(2)(3)(5), Arribas L(1)(2), Casas 
+M(2)(3)(5), Ramos-Quiroga JA(1)(2)(3)(5), Ribasés M(1)(2)(3)(4), Soler Artigas 
+M(1)(2)(3)(4).
+
+Author information:
+(1)Psychiatric Genetics Unit, Group of Psychiatry, Mental Health and Addiction, 
+Vall d'Hebron Research Institute (VHIR), Universitat Autònoma de Barcelona, 
+Barcelona, Spain.
+(2)Department of Psychiatry, Hospital Universitari Vall d'Hebron, Barcelona, 
+Spain.
+(3)Biomedical Network Research Centre on Mental Health (CIBERSAM), Instituto de 
+Salud Carlos III, Madrid, Spain.
+(4)Department of Genetics, Microbiology, and Statistics, Faculty of Biology, 
+Universitat de Barcelona, Barcelona, Spain.
+(5)Department of Psychiatry and Forensic Medicine, Universitat Autònoma de 
+Barcelona, Barcelona, Spain.
+
+Substance use disorder (SUD) often co-occur at high prevalence with other 
+psychiatric conditions. Among them, attention-deficit and hyperactivity disorder 
+(ADHD) is present in almost one out of every four subjects with SUD and is 
+associated with higher severity, more frequent polysubstance dependence and 
+increased risk for other mental health problems in SUD patients. Despite studies 
+suggesting a genetic basis in the co-occurrence of these two conditions, the 
+genetic factors involved in the joint development of both disorders and the 
+mechanisms mediating these causal relationships are still unknown. In this 
+study, we tested whether the genetic liability to five SUD-related phenotypes 
+share a common background in the general population and clinically diagnosed 
+ADHD individuals from an in-house sample of 989 subjects and further explored 
+the genetic overlap and the causal relationship between ADHD and SUD using 
+pre-existing GWAS datasets. Our results confirm a common genetic background 
+between ADHD and SUD and support the current literature on the causal effect of 
+the liability to ADHD on the risk for SUD. We added novel findings on the effect 
+of the liability of lifetime cannabis use on ADHD and found evidence of shared 
+genetic background underlying SUD in general population and in ADHD, at least 
+for lifetime cannabis use, alcohol dependence and smoking initiation. These 
+findings are in agreement with the high comorbidity observed between ADHD and 
+SUD and highlight the need to control for substance use in ADHD and to screen 
+for ADHD comorbidity in all SUD patients to provide optimal clinical 
+interventions.
+
+© 2020 The Authors. American Journal of Medical Genetics Part B: 
+Neuropsychiatric Genetics published by Wiley Periodicals LLC.
+
+DOI: 10.1002/ajmg.b.32827
+PMID: 33244849 [Indexed for MEDLINE]
+
+
+32. J Psychiatr Res. 2017 Feb;85:49-55. doi: 10.1016/j.jpsychires.2016.10.018. Epub 
+2016 Oct 22.
+
+Examining the association between attention deficit hyperactivity disorder and 
+substance use disorders: A familial risk analysis.
+
+Yule AM(1), Martelon M(2), Faraone SV(3), Carrellas N(2), Wilens TE(4), 
+Biederman J(4).
+
+Author information:
+(1)Pediatric Psychopharmacology Program, Division of Child Psychiatry, 
+Massachusetts General Hospital, Boston, MA 02114, USA; Department of Psychiatry, 
+Massachusetts General Hospital, Harvard Medical School, Boston, MA 02114, USA. 
+Electronic address: ayule@partners.org.
+(2)Pediatric Psychopharmacology Program, Division of Child Psychiatry, 
+Massachusetts General Hospital, Boston, MA 02114, USA.
+(3)Department of Psychiatry, SUNY Upstate Medical University, Syracuse, NY 
+13210, USA; Department of Neuroscience and Physiology, SUNY Upstate Medical 
+University, Syracuse, NY 13210, USA; K.G. Jebsen Centre for Research on 
+Neuropsychiatric Disorders, University of Bergen, Bergen, Norway.
+(4)Pediatric Psychopharmacology Program, Division of Child Psychiatry, 
+Massachusetts General Hospital, Boston, MA 02114, USA; Department of Psychiatry, 
+Massachusetts General Hospital, Harvard Medical School, Boston, MA 02114, USA.
+
+OBJECTIVE: The main aim of this study was to use familial risk analysis to 
+examine the association between attention deficit hyperactivity disorder (ADHD) 
+and substance use disorders (SUDs) attending to sex effects and the specificity 
+of alcohol and drug use disorder risks.
+METHODS: Subjects were derived from two longitudinal case-control family studies 
+of probands aged 6-17 years with and without DSM-III-R ADHD of both sexes and 
+their first degree relatives followed from childhood onto young adult years. Cox 
+proportional hazard models were used to estimate rates of ADHD and SUDs (any 
+SUD, alcohol dependence, and drug dependence). Logistic regression was used to 
+test both co-segregation and assortative mating.
+RESULTS: Our sample included 404 probands (ADHD: 112 boys and 96 girls; Control: 
+105 boys and 91 girls) and their 1336 relatives. SUDs in probands increased the 
+risk for SUDs in relatives irrespective of ADHD status. The risk for dependence 
+to drug or alcohol in relatives was non-specific. There was evidence that even 
+in the absence of a SUD in the proband, ADHD by itself increased the risk of 
+SUDs in relatives. Proband sex did not moderate the familial relationship 
+between ADHD and SUDs. There was evidence of co-segregation between ADHD and 
+SUD.
+CONCLUSIONS: Findings indicate that various independent pathways are involved in 
+the transmission of SUD in ADHD and that these risks were not moderated by 
+proband sex. ADHD children and siblings should benefit from preventive and early 
+intervention strategies to decrease their elevated risk for developing a SUD.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jpsychires.2016.10.018
+PMCID: PMC5191927
+PMID: 27835739 [Indexed for MEDLINE]
+
+Conflict of interest statement: MaryKate Martelon and Nicholas Carrellas: The 
+authors have no conflict of interest relevant to this article to disclose.
+
+
+33. Pediatr Res. 2016 Aug;80(2):228-36. doi: 10.1038/pr.2016.78. Epub 2016 Apr 11.
+
+ADHD risk alleles associated with opiate addiction: study of addicted parents 
+and their children.
+
+Ornoy A(1), Finkel-Pekarsky V(1), Peles E(2), Adelson M(2), Schreiber S(2)(3), 
+Ebstein PR(4).
+
+Author information:
+(1)Laboratory of Teratology, Department of Medical Neurobiology, Canada Israel 
+Institute of Medical Research, Hebrew University Hadassah Medical School, 
+Jerusalem, Israel.
+(2)Adelson clinic for drug abuse treatment & Research, Tel Aviv Sourasky Medical 
+Center, Tel Aviv, Israel.
+(3)Department of Psychiatry, Tel Aviv Sourasky Medical Center, Tel Aviv, Israel.
+(4)Department of Psychology, National University of Singapore, Singapore, 
+Singapore.
+
+BACKGROUND: Polymorphisms in genes such as DAT1, 5HTTLPR, D4DR4, and MAO-A have 
+been linked to attention deficit hyperactivity disorder (ADHD) and 
+susceptibility for opiate addiction. We investigated in opiate-addicted parents 
+and their children the rate of ADHD and genetic markers that could predict 
+susceptibility to ADHD and/or opiate addiction.
+METHODS: We studied 64 heroin-addicted, methadone-maintained parents, and their 
+94 children who had or had not been exposed prenatally to opiates. DNA extracted 
+from mouthwash was assessed for genetic polymorphism for six polymorphic sites 
+of four different genes. Study subjects also filled a variety of questionnaires 
+assessing the rate of ADHD in the parents and children and the children's 
+intelligence quotient.
+RESULTS: Children of opiate-dependent mothers had a higher rate of ADHD compared 
+to those of the opiate-dependent fathers. Opiate-dependent parents have a high 
+risk of being carriers of most risk alleles examined except DRD4EX3 (allele 7). 
+There was no difference whether the addicted parents had or did not have ADHD.
+CONCLUSIONS: Serotonergic and dopaminergic risk alleles seem to be mainly 
+related to opiate dependence with no effect on the occurrence of ADHD. People 
+carrying those polymorphisms are susceptible to opioid addiction and not 
+necessarily to ADHD.
+
+DOI: 10.1038/pr.2016.78
+PMID: 27064247 [Indexed for MEDLINE]
+
+
+34. Addict Behav. 2006 Jun;31(6):1088-99. doi: 10.1016/j.addbeh.2006.03.013. Epub 
+2006 May 2.
+
+Family based association analysis of statistically derived quantitative traits 
+for drug use in ADHD and the dopamine transporter gene.
+
+Lasky-Su J(1), Biederman J, Doyle AE, Wilens T, Monuteaux M, Smoller JW, Faraone 
+S.
+
+Author information:
+(1)Genetics Research Program and Department of Psychiatry and Behavioral 
+Sciences, SUNY Upstate Medical University, Syracuse, NY 13210, and Pediatric 
+psychopharmacology Unit, Massachusetts General Hospital, Boston, USA.
+
+OBJECTIVE: To determine whether SNPs within the dopamine transporter gene (DAT) 
+are associated with quantitative phenotypes generated from drug frequency 
+variables in an ADHD sample.
+METHOD: 35 SNPs were genotyped in and around DAT. We developed a quantitative 
+phenotype at each SNP by weighting the drug frequency variables. The weights 
+were selected to maximize the heritability at each SNP. Once a quantitative 
+phenotype was generated at each SNP, a screening procedure was used to select 
+and test the SNPs with the greatest power to detect an association in DAT.
+RESULTS: No SNPs in DAT were associated with the quantitative phenotypes 
+generated from the drug frequency variables after the multiple comparisons 
+adjustment; however, some SNPs achieved nominal significance. A sliding window 
+of analysis of 3 SNPs also resulted in only nominal associations.
+CONCLUSIONS: SNPs in DAT do not appear to be associated with the phenotypes 
+generated from drug frequency variables among individuals with ADHD.
+
+DOI: 10.1016/j.addbeh.2006.03.013
+PMID: 16647218 [Indexed for MEDLINE]
+
+
+35. Synapse. 2011 Feb;65(2):154-9. doi: 10.1002/syn.20829.
+
+Molecular imaging genetics of methylphenidate response in ADHD and substance use 
+comorbidity.
+
+Szobot CM(1), Roman T, Hutz MH, Genro JP, Shih MC, Hoexter MQ, Júnior N, 
+Pechansky F, Bressan RA, Rohde LA.
+
+Author information:
+(1)ADHD Outpatient Clinic, Hospital de Clínicas de Porto Alegre (HCPA), 
+Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, Brasil. 
+cmszobot@terra.com.br
+
+PURPOSE: Attention-deficit/hyperactivity disorder (ADHD) and substance use 
+disorders (SUDs) are highly comorbid and may share a genetic vulnerability. 
+Methylphenidate (MPH), a dopamine transporter (DAT) blocker, is an effective 
+drug for most ADHD patients. Although dopamine D4 receptor (DRD4) and dopamine 
+transporter (DAT1) genes have a role in both disorders, little is known about 
+how these genes influence brain response to MPH in individuals with ADHD/SUDs. 
+The goal of this study was to evaluate whether ADHD risk alleles at DRD4 and 
+DAT1 genes could predict the change in striatal DAT occupancy after treatment 
+with MPH in adolescents with ADHD/SUDs.
+METHODS: Seventeen adolescents with ADHD/SUDs underwent a SPECT scan with 
+[Tc(99m) ]TRODAT-1 at baseline and after three weeks on MPH. Caudate and putamen 
+DAT binding potential was calculated. Comparisons on DAT changes were made 
+according to the subjects' genotype.
+RESULTS: The combination of both DRD4 7-repeat allele (7R) and homozygosity for 
+the DAT1 10-repeat allele (10/10) was significantly associated with a reduced 
+DAT change after MPH treatment in right and left caudate and putamen, even 
+adjusting the results for potential confounders (P ≤ 0.02; R² from 0.50 to 
+0.56).
+CONCLUSIONS: In patients with ADHD/SUDs, combined DRD4 7R and DAT1 10/10 could 
+index MPH reduced DAT occupancy. This might be important for clinical trials, in 
+terms of better understanding individual variability in treatment response.
+
+Copyright © 2010 Wiley-Liss, Inc.
+
+DOI: 10.1002/syn.20829
+PMID: 20593420 [Indexed for MEDLINE]
+
+
+36. J Stud Alcohol Drugs. 2012 Mar;73(2):185-94. doi: 10.15288/jsad.2012.73.185.
+
+Twin study of the relationship between adolescent 
+attention-deficit/hyperactivity disorder and adult alcohol dependence.
+
+Edwards AC(1), Kendler KS.
+
+Author information:
+(1)Virginia Institute for Psychiatric and Behavioral Genetics, and Department of 
+Psychiatry, Virginia Commonwealth University, Richmond, Virginia 23298-0126, 
+USA. aedwards5@vcu.edu
+
+OBJECTIVE: Adolescent problem behaviors such as conduct disorder and 
+attention-deficit/hyperactivity disorder (ADHD) are often associated with 
+alcohol problems in adulthood, particularly alcohol dependence. This association 
+is partly a result of shared genetic liability. However, it is unclear whether 
+ADHD, or an ADHD subtype, shares genetic influences with alcohol dependence 
+beyond those also shared by conduct disorder.
+METHOD: We evaluated phenotypic associations between adolescent conduct disorder 
+and ADHD phenotypes with adult alcohol dependence in a population-based sample 
+of adult male twins (N = 1,774). We then assessed genetic and environmental 
+relationships among phenotypes using structural equation modeling.
+RESULTS: Individually, conduct disorder and each ADHD factor were associated 
+with adult alcohol dependence. Results from twin modeling indicate that a 
+genetic factor common to conduct disorder and ADHD also loads strongly onto 
+alcohol dependence. Even after controlling for genetic factors shared with 
+conduct disorder and other ADHD factors, the hyperactivity component of ADHD 
+shared significant residual genetic influences with alcohol dependence.
+CONCLUSIONS: Most of the genetically mediated association between adolescent 
+ADHD and adult alcohol dependence is shared with conduct disorder, reflecting a 
+generalized risk to externalizing behaviors. The significant residual genetic 
+covariance between the ADHD factor hyperactivity/impulsivity and alcohol 
+dependence implies that impulsive behaviors less destructive/harmful than those 
+manifested by conduct disorder can be indicative of genetic risk for adult 
+alcohol dependence. However, the ADHD factors inattention and forgetfulness are 
+not uniquely predictive of genetic/environmental risk for alcohol dependence.
+
+DOI: 10.15288/jsad.2012.73.185
+PMCID: PMC3281978
+PMID: 22333326 [Indexed for MEDLINE]
+
+
+37. Int J Environ Res Public Health. 2022 Apr 8;19(8):4479. doi: 
+10.3390/ijerph19084479.
+
+Influence of COMT (rs4680) and DRD2 (rs1076560, rs1800497) Gene Polymorphisms on 
+Safety and Efficacy of Methylphenidate Treatment in Children with Fetal Alcohol 
+Spectrum Disorders.
+
+Śmiarowska M(1), Brzuchalski B(1), Grzywacz E(2), Malinowski D(1), 
+Machoy-Mokrzyńska A(2), Pierzchlińska A(1), Białecka M(1).
+
+Author information:
+(1)Department of Pharmacokinetics and Therapeutic Drug Monitoring, Pomeranian 
+Medical University, Aleja Powstancόw Wielkopolskich 72 St., 70-111 Szczecin, 
+Poland.
+(2)Department of Experimental and Clinical Pharmacology, Pomeranian Medical 
+University, Aleja Powstancόw Wielkopolskich 72 St., 70-111 Szczecin, Poland.
+
+Fetal alcohol spectrum disorders (FASD) in a course of high prenatal alcohol 
+exposure (hPAE) are among the most common causes of developmental disorders. The 
+main reason for pharmacological treatment of FASD children is attention deficit 
+hyperactivity disorder (ADHD), and methylphenidate (MPH) is the drug of choice. 
+The aim of the study was to assess whether children born of hPAE with ADHD, with 
+or without morphological FASD, differ in terms of catechol-O-methyltransferase 
+(COMT) and dopamine receptor D2 (DRD2) gene polymorphisms, and if genetic 
+predisposition affects response and safety of MPH treatment. The polymorphisms 
+of COMT (rs4680) and DRD2 (rs1076560, rs1800497) were analyzed in DNA samples. A 
+borderline significance was found for the correlation between MPH side effects 
+and the G allele of COMT (rs4680) (p = 0.04994) in all ADHD children. No effect 
+of COMT (rs4680) and DRD2 (rs1076560, rs1800497) polymorphisms and the treatment 
+efficacy was observed. The analyzed DRD2 and COMT gene polymorphisms seem to 
+play no role in MPH efficacy in ADHD children with hPAE, while low-activity COMT 
+(Met158) variant carriers may be more intolerant to MPH. The MPH treatment is 
+effective in ADHD independent of FASD, although the ADHD-FASD variant requires 
+higher doses to be successful. These results may help in optimization and 
+individualization in child psychiatry.
+
+DOI: 10.3390/ijerph19084479
+PMCID: PMC9031832
+PMID: 35457347 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+38. Am J Addict. 2012 Sep-Oct;21(5):404-10. doi: 10.1111/j.1521-0391.2012.00252.x.
+
+GABRA2 genotype, impulsivity, and body mass.
+
+Bauer LO(1), Yang BZ, Houston RJ, Kranzler HR, Gelernter J.
+
+Author information:
+(1)Department of Psychiatry, University of Connecticut School of Medicine, 
+Farmington, Connecticut 06030-2103, USA.
+
+BACKGROUND: The goal of this study was to test a hypothesis associating 
+impulsivity with an elevated body mass index (BMI).
+METHODS: To this end, we examined associations of BMI with putative genetic, 
+neurophysiological, psychiatric, and psychological indicators of impulsivity in 
+78 women and 74 men formerly dependent on alcohol or drugs. A second analysis 
+was designed to test the replicability of the genetic findings in an independent 
+sample of 109 women and 111 men with a similar history of substance dependence.
+RESULTS: The results of the first analysis showed that BMI was positively 
+correlated with Total and Nonplanning Scale Scores on the Barratt Impulsiveness 
+Scale and the number of childhood symptoms of Attention-Deficit/Hyperactivity 
+Disorder in women. It was also positively correlated, in women, with a GABRA2 
+variant previously implicated as a risk factor for substance dependence and an 
+objective electroencephalographic feature previously associated with GABRA2 and 
+relapse risk. The second analysis confirmed that the correlation between BMI and 
+the substance-dependence-associated GABRA2 genotype was reliable and 
+sex-specific.
+CONCLUSIONS: We conclude that an elevated BMI is associated with genetic, 
+neurophysiological, psychiatric, and psychological indicators of impulsivity. 
+The sex difference may be explained by greater opportunities to eat and overeat, 
+a preference for higher calorie foods, a longer duration of alcohol/drug 
+abstinence, or previous pregnancies in women.
+
+Copyright © American Academy of Addiction Psychiatry.
+
+DOI: 10.1111/j.1521-0391.2012.00252.x
+PMCID: PMC3773931
+PMID: 22882390 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interest Dr. Kranzler has been a 
+paid consultant for Alkermes and Gilead and received research support from Merck 
+for projects unrelated to the work described here. He also reports associations 
+with Eli Lilly, Janssen, Schering Plough, Lundbeck, Alkermes, GlaxoSmithKline, 
+Abbott, and Johnson & Johnson, which provide support to the ACNP Alcohol 
+Clinical Trials Initiative (ACTIVE). Neither Dr. Kranzler nor the other authors 
+perceive that a conflict of interest is present. The authors report no conflicts 
+of interest. The authors alone are responsible for the content and writing of 
+the paper.
+
+
+39. Behav Brain Res. 2019 Jun 3;365:1-6. doi: 10.1016/j.bbr.2019.02.036. Epub 2019 
+Feb 21.
+
+Dopamine D4 receptor gene expression plays important role in extinction and 
+reinstatement of cocaine-seeking behavior in mice.
+
+Ananth M(1), Hetelekides EM(2), Hamilton J(3), Thanos PK(4).
+
+Author information:
+(1)Stony Brook University, Department of Neurobiology, Stony Brook, NY, USA.
+(2)Behavioral Neuropharmacology and Neuroimaging Laboratory on Addictions, 
+Research Institute on Addictions, Department of Pharmacology and Toxicology, 
+Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, 
+Buffalo, NY, USA.
+(3)Behavioral Neuropharmacology and Neuroimaging Laboratory on Addictions, 
+Research Institute on Addictions, Department of Pharmacology and Toxicology, 
+Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, 
+Buffalo, NY, USA; Department of Psychology, University at Buffalo, Buffalo, NY, 
+USA.
+(4)Behavioral Neuropharmacology and Neuroimaging Laboratory on Addictions, 
+Research Institute on Addictions, Department of Pharmacology and Toxicology, 
+Jacobs School of Medicine and Biomedical Sciences, University at Buffalo, 
+Buffalo, NY, USA; Department of Psychology, University at Buffalo, Buffalo, NY, 
+USA. Electronic address: pthanos@ria.buffalo.edu.
+
+Dopamine D4 receptor (DRD4) dysregulation is associated with a variety of 
+behaviors including novelty-seeking, approach avoidance, and ADHD. DRD4 has also 
+been shown to interact with the environment to produce changes in behavior and 
+longevity. The present study sought to examine the role of DRD4 on 
+cocaine-seeking behavior in the conditioned place preference (CPP) test and 
+determine its effects on extinction and reinstatement in adult wild-type (WT), 
+heterozygous (HT), and knockout (KO) mice. Results revealed that all mice, 
+regardless of sex or genotype, developed a similar acquisition for a cocaine 
+place preference. Female DRD4 KO mice failed to extinguish their preference for 
+the cocaine-paired chamber following the extinction period. Male DRD4 KO mice 
+failed to reinstate their preference after a priming dose following successful 
+extinction. No differences in locomotor activity were observed within drug 
+treatment conditions due to genotype, and female mice displayed reduced 
+locomotor activity during CPP conditioning compared to male mice. The observed 
+effects illustrate the role DRD4 gene expression has on extinction and 
+reinstatement, but not acquisition, of cocaine-seeking behavior.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbr.2019.02.036
+PMID: 30797855 [Indexed for MEDLINE]
+
+
+40. Int J Environ Res Public Health. 2010 Apr;7(4):1694-707. doi: 
+10.3390/ijerph7041694. Epub 2010 Apr 14.
+
+Are adolescents with ADHD interested in genetic testing for nicotine addiction 
+susceptibility?
+
+Herbert LJ(1), Walker LR, Sharff ME, Abraham AA, Tercyak KP.
+
+Author information:
+(1)University of Maryland Baltimore County, 1000 Hilltop Circle, Baltimore, MD 
+21250, USA.
+
+It has been well-established that some adolescents diagnosed with 
+attention-deficit/hyperactivity disorder (ADHD) are at increased risk for 
+cigarette smoking. Current research on the genetic basis of this association 
+could ultimately translate into genetic tests capable of identifying 
+smoking-prone adolescents with ADHD. In this study we examined 81 ADHD affected 
+adolescents' (age 13-21) interest in genetic testing for nicotine addiction 
+susceptibility. Fifty-seven percent of adolescents indicated a fair amount of 
+interest or more in testing. Most adolescents indicated that the personal 
+information revealed from testing would be either useful (29%) or interesting 
+(37%). Implications for genetically-informed smoking prevention and cessation 
+interventions in high risk adolescents with ADHD are discussed.
+
+DOI: 10.3390/ijerph7041694
+PMCID: PMC2872360
+PMID: 20617054 [Indexed for MEDLINE]
+
+
+41. Sci Rep. 2021 Nov 19;11(1):22628. doi: 10.1038/s41598-021-01517-7.
+
+Large-scale genetic investigation reveals genetic liability to multiple complex 
+traits influencing a higher risk of ADHD.
+
+García-Marín LM(1)(2), Campos AI(3)(4), Cuéllar-Partida G(5)(6), Medland SE(3), 
+Kollins SH(7)(8), Rentería ME(9)(10).
+
+Author information:
+(1)Department of Genetics and Computational Biology, QIMR Berghofer Medical 
+Research Institute, Brisbane, QLD, Australia. 
+luis.garciamarin@qimrberghofer.edu.au.
+(2)School of Biomedical Sciences, Faculty of Medicine, The University of 
+Queensland, Brisbane, QLD, Australia. luis.garciamarin@qimrberghofer.edu.au.
+(3)Department of Genetics and Computational Biology, QIMR Berghofer Medical 
+Research Institute, Brisbane, QLD, Australia.
+(4)School of Biomedical Sciences, Faculty of Medicine, The University of 
+Queensland, Brisbane, QLD, Australia.
+(5)The University of Queensland Diamantina Institute, The University of 
+Queensland, Woolloongabba, QLD, Australia.
+(6)23andMe, Inc, Sunnyvale, CA, USA.
+(7)Department of Psychiatry & Behavioral Sciences, School of Medicine, Duke 
+University, Durham, NC, USA.
+(8)Holmusk Technologies, Inc., New York, NY, USA.
+(9)Department of Genetics and Computational Biology, QIMR Berghofer Medical 
+Research Institute, Brisbane, QLD, Australia. 
+miguel.renteria@qimrberghofer.edu.au.
+(10)School of Biomedical Sciences, Faculty of Medicine, The University of 
+Queensland, Brisbane, QLD, Australia. miguel.renteria@qimrberghofer.edu.au.
+
+Attention Deficit-Hyperactivity Disorder (ADHD) is a complex psychiatric and 
+neurodevelopmental disorder that develops during childhood and spans into 
+adulthood. ADHD's aetiology is complex, and evidence about its cause and risk 
+factors is limited. We leveraged genetic data from genome-wide association 
+studies (GWAS) and performed latent causal variable analyses using a 
+hypothesis-free approach to infer causal associations between 1387 complex 
+traits and ADHD. We identified 37 inferred potential causal associations with 
+ADHD risk. Our results reveal that genetic variants associated with iron 
+deficiency anemia (ICD10), obesity, type 2 diabetes, synovitis and tenosynovitis 
+(ICD10), polyarthritis (ICD10), neck or shoulder pain, and substance use in 
+adults display partial genetic causality on ADHD risk in children. Genetic 
+variants associated with ADHD have a partial genetic causality increasing the 
+risk for chronic obstructive pulmonary disease and carpal tunnel syndrome. 
+Protective factors for ADHD risk included genetic variants associated with the 
+likelihood of participating in socially supportive and interactive activities. 
+Our results show that genetic liability to multiple complex traits influences a 
+higher risk for ADHD, highlighting the potential role of cardiometabolic 
+phenotypes and physical pain in ADHD's aetiology. These findings have the 
+potential to inform future clinical studies and development of interventions.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-01517-7
+PMCID: PMC8604995
+PMID: 34799595 [Indexed for MEDLINE]
+
+Conflict of interest statement: GC-P contributed to this study while employed at 
+The University of Queensland. He is now an employee of 23andMe Inc., and he may 
+hold stock or stock options. All other authors declare having no conflicts of 
+interest.
+
+
+42. Neuropsychopharmacology. 2005 Mar;30(3):602-9. doi: 10.1038/sj.npp.1300637.
+
+Dopamine transporter gene associated with diminished subjective response to 
+amphetamine.
+
+Lott DC(1), Kim SJ, Cook EH Jr, de Wit H.
+
+Author information:
+(1)Department of Psychiatry, The University of Chicago, Chicago, IL 60637, USA.
+
+Individual variability in responses to stimulant drugs may influence risk of 
+stimulant abuse and treatment response. However, the genetic determinants of 
+this variability have yet to be elucidated. The dopamine transporter is an 
+important site of amphetamine action. Therefore, the dopamine transporter gene 
+(DAT1) is a logical candidate gene to study. Using a drug challenge approach, we 
+tested for association between DAT1 genotype and subjective responses to 
+amphetamine in healthy adults. Volunteers participated in a double-blind, 
+crossover design, randomly receiving placebo, 10 mg, and 20 mg oral 
+D-amphetamine, and completed self-report measures on subjective effects 
+including anxiety and euphoria. Subjects were genotyped for the DAT1 
+3'-untranslated region VNTR polymorphism and divided into groups based on 
+genotype: homozygous for nine repeats (9/9, N=8), heterozygous (9/10, N=36) and 
+homozygous for 10 repeats (10/10, N=52). The effects of amphetamine on ratings 
+of Feel Drug, Anxiety, and Euphoria were examined with ANCOVA. In 9/10 and 10/10 
+subjects, amphetamine produced its expected effects of increased Euphoria, 
+Anxiety, and Feel Drug (p<0.01). However, in 9/9 subjects, the effects of 
+amphetamine were indistinguishable from placebo, suggesting that the 9/9 
+genotype has diminished subjective response to acute amphetamine. Interestingly, 
+recent findings also implicate the 9/9 genotype in decreased therapeutic 
+response to the stimulant methylphenidate in ADHD children. The current findings 
+have important implications for understanding the genetic determinants of 
+variability in stimulant response and risk of abuse.
+
+DOI: 10.1038/sj.npp.1300637
+PMID: 15602501 [Indexed for MEDLINE]
+
+
+43. PLoS One. 2013 Dec 31;8(12):e84207. doi: 10.1371/journal.pone.0084207. 
+eCollection 2013.
+
+Association of impulsivity and polymorphic microRNA-641 target sites in the 
+SNAP-25 gene.
+
+Németh N(1), Kovács-Nagy R(1), Székely A(2), Sasvári-Székely M(1), Rónai Z(1).
+
+Author information:
+(1)Department of Medical Chemistry, Molecular Biology and Pathobiochemistry, 
+Semmelweis University, Budapest, Hungary.
+(2)Institute of Psychology, Eotvos Lorand University, Budapest, Hungary.
+
+Impulsivity is a personality trait of high impact and is connected with several 
+types of maladaptive behavior and psychiatric diseases, such as attention 
+deficit hyperactivity disorder, alcohol and drug abuse, as well as pathological 
+gambling and mood disorders. Polymorphic variants of the SNAP-25 gene emerged as 
+putative genetic components of impulsivity, as SNAP-25 protein plays an 
+important role in the central nervous system, and its SNPs are associated with 
+several psychiatric disorders. In this study we aimed to investigate if 
+polymorphisms in the regulatory regions of the SNAP-25 gene are in association 
+with normal variability of impulsivity. Genotypes and haplotypes of two 
+polymorphisms in the promoter (rs6077690 and rs6039769) and two SNPs in the 3' 
+UTR (rs3746544 and rs1051312) of the SNAP-25 gene were determined in a healthy 
+Hungarian population (N = 901) using PCR-RFLP or real-time PCR in combination 
+with sequence specific probes. Significant association was found between the T-T 
+3' UTR haplotype and impulsivity, whereas no association could be detected with 
+genotypes or haplotypes of the promoter loci. According to sequence alignment, 
+the polymorphisms in the 3' UTR of the gene alter the binding site of 
+microRNA-641, which was analyzed by luciferase reporter system. It was observed 
+that haplotypes altering one or two nucleotides in the binding site of the seed 
+region of microRNA-641 significantly increased the amount of generated protein 
+in vitro. These findings support the role of polymorphic SNAP-25 variants both 
+at psychogenetic and molecular biological levels.
+
+DOI: 10.1371/journal.pone.0084207
+PMCID: PMC3877256
+PMID: 24391914 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+44. Addict Biol. 2016 Jul;21(4):915-23. doi: 10.1111/adb.12230. Epub 2015 Mar 6.
+
+Dopamine and serotonin genetic risk scores predicting substance and nicotine use 
+in attention deficit/hyperactivity disorder.
+
+Groenman AP(1)(2), Greven CU(2)(3)(4), van Donkelaar MM(5), Schellekens A(6)(7), 
+van Hulzen KJ(5), Rommelse N(4)(6), Hartman CA(8), Hoekstra PJ(8), Luman M(1), 
+Franke B(5)(6), Faraone SV(9)(10), Oosterlaan J(1), Buitelaar JK(2)(4).
+
+Author information:
+(1)Department of Clinical Neuropsychology, VU University Amsterdam, The 
+Netherlands.
+(2)Department of Cognitive Neuroscience, Radboud University Medical Centre 
+Nijmegen, Donders Institute for Brain, Cognition and Behavior, Centre for 
+Neuroscience, The Netherlands.
+(3)Institute of Psychiatry, King's College London, MRC Social, Genetic and 
+Developmental Psychiatry Centre, UK.
+(4)Karakter, Child and Adolescent Psychiatry University Centre, The Netherlands.
+(5)Department of Human Genetics, Radboud University Medical Centre Nijmegen, 
+Donders Institute for Brain, Cognition and Behaviour, The Netherlands.
+(6)Department of Psychiatry, Radboud University Medical Centre Nijmegen, Donders 
+Institute for Brain, Cognition and Behavior, Centre for Neuroscience, The 
+Netherlands.
+(7)Nijmegen Institute for Science Practitioners in Addiction (NISPA), The 
+Netherlands.
+(8)Department of Psychiatry, University of Groningen, University Medical Center 
+Groningen, The Netherlands.
+(9)Departments of Psychiatry and of Neuroscience and Physiology, SUNY Upstate 
+Medical University, Syracuse, NY, USA.
+(10)K.G. Jebsen Centre for Research on Neuropsychiatric Disorders, University of 
+Bergen, Norway.
+
+Individuals with attention deficit/hyperactivity disorder (ADHD) are at 
+increased risk of developing substance use disorders (SUDs) and nicotine 
+dependence. The co-occurrence of ADHD and SUDs/nicotine dependence may in part 
+be mediated by shared genetic liability. Several neurobiological pathways have 
+been implicated in both ADHD and SUDs, including dopamine and serotonin 
+pathways. We hypothesized that variations in dopamine and serotonin 
+neurotransmission genes were involved in the genetic liability to develop 
+SUDs/nicotine dependence in ADHD. The current study included participants with 
+ADHD (n = 280) who were originally part of the Dutch International Multicenter 
+ADHD Genetics study. Participants were aged 5-15 years and attending outpatient 
+clinics at enrollment in the study. Diagnoses of ADHD, SUDs, nicotine 
+dependence, age of first nicotine and substance use, and alcohol use severity 
+were based on semi-structured interviews and questionnaires. Genetic risk scores 
+were created for both serotonergic and dopaminergic risk genes previously shown 
+to be associated with ADHD and SUDs and/or nicotine dependence. The serotonin 
+genetic risk score significantly predicted alcohol use severity. No significant 
+serotonin × dopamine risk score or effect of stimulant medication was found. The 
+current study adds to the literature by providing insight into genetic 
+underpinnings of the co-morbidity of ADHD and SUDs. While the focus of the 
+literature so far has been mostly on dopamine, our study suggests that serotonin 
+may also play a role in the relationship between these disorders.
+
+© 2015 Society for the Study of Addiction.
+
+DOI: 10.1111/adb.12230
+PMCID: PMC4561224
+PMID: 25752199 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicted interest: JO has received an 
+unrestricted grant from Shire. PJH has received honoraria for advice from Eli 
+Lilly and Shire. JAS is a member of advisory board of Shire en Eli Lilly, has 
+received a research grant from Lilly and speaker fees from Shire, Lilly, 
+Janssen-Cillag, Novartis. In the past 3 years, JKB has been a consultant to / 
+member of advisory board of / and/or speaker for Janssen Cilag BV, Eli Lilly, 
+Bristol-Myer Squibb, Shering Plough, UCB, Shire, Novartis and Servier. He is not 
+an employee of any of these companies, and not a stock shareholder of any of 
+these companies. He has no other financial or material support, including expert 
+testimony, patents or royalties. In the past year, SVF received consulting 
+income and/or research support from Shire, Otsuka and Alcobra and research 
+support from the National Institutes of Health (NIH). In previous years, he 
+received consulting fees or was on Advisory Boards or participated in continuing 
+medical education programs sponsored by: Shire, McNeil, Janssen, Novartis, 
+Pfizer and Eli Lilly. SVF receives royalties from books published by Guilford 
+Press: Straight Talk about Your Child’s Mental Health and Oxford University 
+Press: Schizophrenia: The Facts. APG, AS, MvD, KvH, NNJR, BF, CAH and CUG have 
+no conflicts of interest to declare.
+
+
+45. Theor Biol Med Model. 2008 Nov 12;5:24. doi: 10.1186/1742-4682-5-24.
+
+Activation instead of blocking mesolimbic dopaminergic reward circuitry is a 
+preferred modality in the long term treatment of reward deficiency syndrome 
+(RDS): a commentary.
+
+Blum K(1), Chen AL, Chen TJ, Braverman ER, Reinking J, Blum SH, Cassel K, Downs 
+BW, Waite RL, Williams L, Prihoda TJ, Kerner MM, Palomo T, Comings DE, Tung H, 
+Rhoades P, Oscar-Berman M.
+
+Author information:
+(1)Department of Physiology & Pharmacology, Wake Forest University School of 
+Medicine, Winston-Salem, NC, USA . drd2gene@aol.com
+
+BACKGROUND AND HYPOTHESIS: Based on neurochemical and genetic evidence, we 
+suggest that both prevention and treatment of multiple addictions, such as 
+dependence to alcohol, nicotine and glucose, should involve a biphasic approach. 
+Thus, acute treatment should consist of preferential blocking of postsynaptic 
+Nucleus Accumbens (NAc) dopamine receptors (D1-D5), whereas long term activation 
+of the mesolimbic dopaminergic system should involve activation and/or release 
+of Dopamine (DA) at the NAc site. Failure to do so will result in abnormal mood, 
+behavior and potential suicide ideation. Individuals possessing a paucity of 
+serotonergic and/or dopaminergic receptors, and an increased rate of synaptic DA 
+catabolism due to high catabolic genotype of the COMT gene, are predisposed to 
+self-medicating any substance or behavior that will activate DA release, 
+including alcohol, opiates, psychostimulants, nicotine, gambling, sex, and even 
+excessive internet gaming. Acute utilization of these substances and/or 
+stimulatory behaviors induces a feeling of well being. Unfortunately, sustained 
+and prolonged abuse leads to a toxic" pseudo feeling" of well being resulting in 
+tolerance and disease or discomfort. Thus, a reduced number of DA receptors, due 
+to carrying the DRD2 A1 allelic genotype, results in excessive craving behavior; 
+whereas a normal or sufficient amount of DA receptors results in low craving 
+behavior. In terms of preventing substance abuse, one goal would be to induce a 
+proliferation of DA D2 receptors in genetically prone individuals. While in vivo 
+experiments using a typical D2 receptor agonist induce down regulation, 
+experiments in vitro have shown that constant stimulation of the DA receptor 
+system via a known D2 agonist results in significant proliferation of D2 
+receptors in spite of genetic antecedents. In essence, D2 receptor stimulation 
+signals negative feedback mechanisms in the mesolimbic system to induce mRNA 
+expression causing proliferation of D2 receptors.
+PROPOSAL AND CONCLUSION: The authors propose that D2 receptor stimulation can be 
+accomplished via the use of Synapatmine, a natural but therapeutic nutraceutical 
+formulation that potentially induces DA release, causing the same induction of 
+D2-directed mRNA and thus proliferation of D2 receptors in the human. This 
+proliferation of D2 receptors in turn will induce the attenuation of craving 
+behavior. In fact as mentioned earlier, this model has been proven in research 
+showing DNA-directed compensatory overexpression (a form of gene therapy) of the 
+DRD2 receptors, resulting in a significant reduction in alcohol craving behavior 
+in alcohol preferring rodents. Utilizing natural dopaminergic repletion therapy 
+to promote long term dopaminergic activation will ultimately lead to a common, 
+safe and effective modality to treat Reward Deficiency Syndrome (RDS) behaviors 
+including Substance Use Disorders (SUD), Attention Deficit Hyperactivity 
+Disorder (ADHD), Obesity and other reward deficient aberrant behaviors. This 
+concept is further supported by the more comprehensive understanding of the role 
+of dopamine in the NAc as a "wanting" messenger in the meso-limbic DA system.
+
+DOI: 10.1186/1742-4682-5-24
+PMCID: PMC2615745
+PMID: 19014506 [Indexed for MEDLINE]
+
+
+46. Eur Neuropsychopharmacol. 2013 Jun;23(6):448-57. doi: 
+10.1016/j.euroneuro.2012.07.003. Epub 2012 Jul 26.
+
+Shared and unique genetic contributions to attention deficit/hyperactivity 
+disorder and substance use disorders: a pilot study of six candidate genes.
+
+Carpentier PJ(1), Arias Vasquez A, Hoogman M, Onnink M, Kan CC, Kooij JJ, 
+Makkinje R, Iskandar S, Kiemeney LA, de Jong CA, Franke B, Buitelaar JK.
+
+Author information:
+(1)Novadic-Kentron, Network for Addiction Treatment Services, Vught, The 
+Netherlands; Reinier van Arkel groep, 's-Hertogenbosch, The Netherlands. 
+pjbcarpentier@gmail.com
+
+The shared genetic basis of attention deficit/hyperactivity disorder (ADHD) and 
+substance use disorders (SUDs) was explored by investigating the association of 
+candidate risk factors in neurotransmitter genes with both disorders. One 
+hundred seven methadone maintenance treatment patients, 36 having an ADHD 
+diagnosis, 176 adult patients with ADHD without SUDs, and 500 healthy controls 
+were genotyped for variants in the DRD4 (exon 3 VNTR), DRD5 (upstream VNTR), 
+HTR1B (rs6296), DBH (rs2519152), COMT (rs4680; Val158Met), and OPRM1 (rs1799971; 
+118A>G) genes. Association with disease was tested using logistic regression 
+models. This pilot study was adequately powered to detect larger genetic effects 
+(OR≥2) of risk alleles with a low frequency. Compared to controls, ADHD patients 
+(with and without SUDs) showed significantly increased frequency of the DBH 
+(rs2519152: OR 1.73; CI 1.15-2.59; P=0.008) and the OPRM1 risk genotypes 
+(rs1799971: OR 1.71; CI 1.17-2.50; P=0.006). The DBH risk genotype was 
+associated with ADHD diagnosis, with the association strongest in the pure ADHD 
+group. The OPRM1 risk genotype increased the risk for the combined ADHD and SUD 
+phenotype. The present study strengthens the evidence for a shared genetic basis 
+for ADHD and addiction. The association of OPRM1 with the ADHD and SUD 
+combination could help to explain the contradictory results of previous studies. 
+The power limitations of the study restrict the significance of these findings: 
+replication in larger samples is warranted.
+
+Copyright © 2012 Elsevier B.V. and ECNP. All rights reserved.
+
+DOI: 10.1016/j.euroneuro.2012.07.003
+PMID: 22841130 [Indexed for MEDLINE]
+
+
+47. Alcohol Alcohol. 2006 Jul-Aug;41(4):407-11. doi: 10.1093/alcalc/agl034. Epub 
+2006 May 5.
+
+Clinical and genetic characteristics of Korean male alcoholics with and without 
+attention deficit hyperactivity disorder.
+
+Kim JW(1), Park CS, Hwang JW, Shin MS, Hong KE, Cho SC, Kim BN.
+
+Author information:
+(1)Department of Child and Adolescent Psychiatry, College of Medicine, Seoul 
+National University Hospital, Seoul, Korea.
+
+AIMS: To examine the clinical and genetic characteristics of Korean male 
+alcoholics with and without attention deficit hyperactivity disorder (ADHD).
+METHODS: The present study included 85 male alcoholics who were diagnosed as 
+having DSM-IV alcohol dependence. A total of 28 (32.9%) alcoholics were 
+diagnosed as having DSM-IV ADHD with ongoing symptoms in adulthood. For the 
+evaluation of their psychiatric conditions, the alcohol dependence scale (ADS), 
+Beck depression inventory (BDI), Beck anxiety inventory (BAI), Barratt 
+impulsiveness scale (BIS), brief anger-aggression questionnaire (BAQ), overt 
+aggression scale (OAS), codependence test, and obsessive compulsive drinking 
+scale (OCDS) were administered. The genotype frequencies of the dopamine type 2 
+receptor gene (DRD2), aldehyde dehydrogenase type 2 gene (ALDH2), functional 
+polymorphism in the regulatory region of the serotonin transporter gene 
+(5-HTTLPR), and catechol-O-methyltransferase gene (COMT) polymorphisms were 
+examined.
+RESULTS: Compared with alcoholics without ADHD, the mean ages for the onset of 
+pathological drinking and alcohol withdrawal hallucinations were significantly 
+earlier in alcoholics with ADHD. There was also a significant difference in the 
+history of antisocial behaviour between the two groups. Compared with alcoholics 
+without ADHD, the mean scores of the ADS, BDI, BAI, OAS, and OCDS were 
+significantly higher in alcoholics with ADHD. With regard to the codependence 
+test results, the mean scores of the interpersonal problem, low self-esteem and 
+anxiety/fear subscales, and the mean total score of the codependence test were 
+significantly higher in alcoholics with ADHD when compared with those without 
+ADHD. There were no significant differences in the genotype frequencies of the 
+DRD2, ALDH2, 5-HTTLPR, and COMT polymorphisms between alcoholics with and 
+without ADHD.
+CONCLUSIONS: The results of this study suggest that the comorbidity of alcohol 
+dependence and ADHD in this Korean sample forms a distinct clinical phenotype 
+that shows an increased severity of alcohol-related symptoms and 
+behavioural/emotional problems and that ADHD is associated with an increased 
+risk for the early onset of alcohol dependence in Korean male alcoholics.
+
+DOI: 10.1093/alcalc/agl034
+PMID: 16679343 [Indexed for MEDLINE]
+
+
+48. PLoS One. 2013 Dec 6;8(12):e80613. doi: 10.1371/journal.pone.0080613. 
+eCollection 2013.
+
+Glial cell line-derived neurotrophic factor (GDNF) as a novel candidate gene of 
+anxiety.
+
+Kotyuk E(1), Keszler G, Nemeth N, Ronai Z, Sasvari-Szekely M, Szekely A.
+
+Author information:
+(1)Doctoral School of Psychology, Eötvös Loránd University, Budapest, Hungary ; 
+Institute of Psychology, Eötvös Loránd University, Budapest, Hungary.
+
+Glial cell line-derived neurotrophic factor (GDNF) is a neurotrophic factor for 
+dopaminergic neurons with promising therapeutic potential in Parkinson's 
+disease. A few association analyses between GDNF gene polymorphisms and 
+psychiatric disorders such as schizophrenia, attention deficit hyperactivity 
+disorder and drug abuse have also been published but little is known about any 
+effects of these polymorphisms on mood characteristics such as anxiety and 
+depression. Here we present an association study between eight (rs1981844, 
+rs3812047, rs3096140, rs2973041, rs2910702, rs1549250, rs2973050 and rs11111) 
+GDNF single nucleotide polymorphisms (SNPs) and anxiety and depression scores 
+measured by the Hospital Anxiety and Depression Scale (HADS) on 708 Caucasian 
+young adults with no psychiatric history. Results of the allele-wise single 
+marker association analyses provided significant effects of two single 
+nucleotide polymorphisms on anxiety scores following the Bonferroni correction 
+for multiple testing (p = 0.00070 and p = 0.00138 for rs3812047 and rs3096140, 
+respectively), while no such result was obtained on depression scores. Haplotype 
+analysis confirmed the role of these SNPs; mean anxiety scores raised according 
+to the number of risk alleles present in the haplotypes (p = 0.00029). A 
+significant sex-gene interaction was also observed since the effect of the 
+rs3812047 A allele as a risk factor of anxiety was more pronounced in males. In 
+conclusion, this is the first demonstration of a significant association between 
+the GDNF gene and mood characteristics demonstrated by the association of two 
+SNPs of the GDNF gene (rs3812047 and rs3096140) and individual variability of 
+anxiety using self-report data from a non-clinical sample.
+
+DOI: 10.1371/journal.pone.0080613
+PMCID: PMC3855631
+PMID: 24324616 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
+
+
+49. Nat Neurosci. 2019 Jul;22(7):1066-1074. doi: 10.1038/s41593-019-0416-1. Epub 
+2019 Jun 17.
+
+Genome-wide association study implicates CHRNA2 in cannabis use disorder.
+
+Demontis D(1)(2)(3), Rajagopal VM(4)(5)(6), Thorgeirsson TE(7), Als TD(4)(5)(6), 
+Grove J(4)(5)(6)(8), Leppälä K(4)(5)(6), Gudbjartsson DF(7), Pallesen 
+J(4)(5)(6), Hjorthøj C(5)(9), Reginsson GW(7), Tyrfingsson T(10), Runarsdottir 
+V(10), Qvist P(4)(5)(6), Christensen JH(4)(5)(6), Bybjerg-Grauholm J(5)(11), 
+Bækvad-Hansen M(5)(11), Huckins LM(12)(13), Stahl EA(12)(13), Timmermann A(14), 
+Agerbo E(5)(14)(15), Hougaard DM(5)(11), Werge T(5)(16)(17), Mors O(5)(18), 
+Mortensen PB(5)(14)(15), Nordentoft M(5)(9)(19), Daly MJ(20)(21)(22), Stefansson 
+H(7), Stefansson K(7), Nyegaard M(4)(5), Børglum AD(23)(24)(25).
+
+Author information:
+(1)Department of Biomedicine-Human Genetics and Centre for Integrative 
+Sequencing, Aarhus University, Aarhus, Denmark. ditte@biomed.au.dk.
+(2)The Lundbeck Foundation Initiative for Integrative Psychiatric Research, 
+Aarhus, Denmark. ditte@biomed.au.dk.
+(3)Center for Genomics and Personalized Medicine, Aarhus, Denmark. 
+ditte@biomed.au.dk.
+(4)Department of Biomedicine-Human Genetics and Centre for Integrative 
+Sequencing, Aarhus University, Aarhus, Denmark.
+(5)The Lundbeck Foundation Initiative for Integrative Psychiatric Research, 
+Aarhus, Denmark.
+(6)Center for Genomics and Personalized Medicine, Aarhus, Denmark.
+(7)deCODE genetics Amgen, Reykjavík, Iceland.
+(8)Bioinformatics Research Centre, Aarhus University, Aarhus, Denmark.
+(9)Copenhagen University Hospital, Mental Health Centre Copenhagen, Mental 
+Health Services in the Capital Region of Denmark, Hellerup, Denmark.
+(10)National Center of Addiction Medicine (SAA), Vogur Hospital, Reykjavík, 
+Iceland.
+(11)Center for Neonatal Screening, Department for Congenital Disorders, Statens 
+Serum Institut, Copenhagen, Denmark.
+(12)Division of Psychiatric Genomic, Icahn School of Medicine at Mount Sinai, 
+New York, NY, USA.
+(13)Department of Genetics and Genomics, Icahn School of Medicine at Mount 
+Sinai, New York, NY, USA.
+(14)National Centre for Register-based Research, Aarhus University, Aarhus, 
+Denmark.
+(15)Centre for Integrated Register-Based Research, Aarhus University, Aarhus, 
+Denmark.
+(16)Institute of Biological Psychiatry, MHC Sct. Hans, Mental Health Services 
+Copenhagen, Roskilde, Denmark.
+(17)Department of Clinical Medicine, University of Copenhagen, Copenhagen, 
+Denmark.
+(18)Psychosis Research Unit, Aarhus University Hospital, Risskov, Denmark.
+(19)Department of Clinical Medicine, Faculty of Health and Medical Sciences, 
+University of Copenhagen, Copenhagen, Denmark.
+(20)Analytic and Translational Genetics Unit, Department of Medicine, 
+Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.
+(21)Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, 
+Cambridge, MA, USA.
+(22)Program in Medical and Population Genetics, Broad Institute of MIT and 
+Harvard, Cambridge, MA, USA.
+(23)Department of Biomedicine-Human Genetics and Centre for Integrative 
+Sequencing, Aarhus University, Aarhus, Denmark. anders@biomed.au.dk.
+(24)The Lundbeck Foundation Initiative for Integrative Psychiatric Research, 
+Aarhus, Denmark. anders@biomed.au.dk.
+(25)Center for Genomics and Personalized Medicine, Aarhus, Denmark. 
+anders@biomed.au.dk.
+
+Cannabis is the most frequently used illicit psychoactive substance worldwide; 
+around one in ten users become dependent. The risk for cannabis use disorder 
+(CUD) has a strong genetic component, with twin heritability estimates ranging 
+from 51 to 70%. Here we performed a genome-wide association study of CUD in 
+2,387 cases and 48,985 controls, followed by replication in 5,501 cases and 
+301,041 controls. We report a genome-wide significant risk locus for CUD 
+(P = 9.31 × 10-12) that replicates in an independent population 
+(Preplication = 3.27 × 10-3, Pmeta-analysis = 9.09 × 10-12). The index variant 
+(rs56372821) is a strong expression quantitative trait locus for cholinergic 
+receptor nicotinic α2 subunit (CHRNA2); analyses of the genetically regulated 
+gene expression identified a significant association of CHRNA2 expression with 
+CUD in brain tissue. At the polygenic level, analyses revealed a significant 
+decrease in the risk of CUD with increased load of variants associated with 
+cognitive performance. The results provide biological insights and inform on the 
+genetic architecture of CUD.
+
+DOI: 10.1038/s41593-019-0416-1
+PMCID: PMC7596896
+PMID: 31209380 [Indexed for MEDLINE]
+
+
+50. Psychiatr Genet. 2003 Sep;13(3):131-41. doi: 10.1097/00041444-200309000-00001.
+
+Psychiatric genetics in Australia.
+
+Mowry BJ(1).
+
+Author information:
+(1)Department of Psychiatry, Queensland Centre for Schizophrenia Research, 
+University of Queensland, The Park, Centre for Mental Health, Wacol, Queensland 
+4076, Australia. bryan_mowry@qcsr.uq,edu.au
+
+Australian research in psychiatric genetics covers molecular genetic studies of 
+depression, anxiety, alcohol dependence, Alzheimer's disease, bipolar disorder, 
+schizophrenia, autism, and attention deficit hyperactivity disorder. For each 
+disorder, a variety of clinical cohorts have been recruited including affected 
+sib pair families, trios, case/controls, and twins from a large population-based 
+twin registry. These studies are taking place both independently and in 
+collaboration with international groups. Microarray studies now complement DNA 
+investigations, while animal models are in development. An Australian government 
+genome facility provides a high throughput genotyping and mutation detection 
+service to the Australian scientific community, enhancing the contribution of 
+Australian psychiatric genetics groups to gene discovery.
+
+DOI: 10.1097/00041444-200309000-00001
+PMID: 12960744 [Indexed for MEDLINE]
