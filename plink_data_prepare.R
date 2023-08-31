@@ -1,11 +1,11 @@
 #!/usr/bin/env RScript
 
 library(dplyr)
-data1 = tibble(read.csv("studyData/GCST90016595_buildGRCh37.tsv", sep = "\t"))
-data2 = tibble(read.csv("studyData/GCST90016604_buildGRCh37.tsv", sep = "\t"))
+data1 = tibble(read.csv("studyData/files/GCST007543_daner_meta_filtered_NA_iPSYCH23_PGC11_sigPCs_woSEX_2ell6sd_EUR_Neff_70.meta", sep = "\t"))
+data2 = tibble(read.csv("studyData/files/GCST008414_CUD_GWAS_iPSYCH_June2019.tsv", sep = " "))
 
 formatted_data1 = data1 %>%
-  select(
+  dplyr::select(
     SNP = variant_id,
     CHR = chromosome,
     BP = base_pair_location,
@@ -16,8 +16,8 @@ formatted_data1 = data1 %>%
     P = p_value
   )
 formatted_data2 = data2 %>%
-  select(
-    SNP = variant_id,
+  dplyr::select(
+    SNP = MarkerName,
     CHR = chromosome,
     BP = base_pair_location,
     A1 = effect_allele,
@@ -28,5 +28,7 @@ formatted_data2 = data2 %>%
   )
 
 # Save the formatted data
-write.table(formatted_data1, "studyData/GCST90016595_buildGRCh37.txt", sep = "\t", row.names = FALSE, quote = FALSE)
-write.table(formatted_data2, "studyData/GCST90016604_buildGRCh37.txt", sep = "\t", row.names = FALSE, quote = FALSE)
+write.table(formatted_data1, "studyData/processed_files/GCST007543_daner_meta_filtered_NA_iPSYCH23_PGC11_sigPCs_woSEX_2ell6sd_EUR_Neff_70_processed.txt", sep = "\t", row.names = FALSE, quote = FALSE)
+write.table(formatted_data2, "studyData/processed_files/GCST008414_CUD_GWAS_iPSYCH_June2019_processed.txt", sep = "\t", row.names = FALSE, quote = FALSE)
+
+list.files("studyData/processed_files")
