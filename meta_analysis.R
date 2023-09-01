@@ -10,12 +10,12 @@ data1 = filter(data, N >=7 & P.R. >= 1e-150 & P.R. != 0)%>%
   mutate(P.R. = P.R.^(1/8)) %>%
   #filter(P != 0) %>%
   tidyr::drop_na()
-manhattan(data1,annotatePval = 1e-8, main = "Manhattan Plot", ylim = c(0, 10),  cex.axis = 0.9,
-          col = c("blue4", "orange3"), p = "P.R." )
+manhattan(data1,annotatePval = 1e-8, ylim = c(0, 10),  cex.axis = 0.9,
+          col = c("blue4", "orange3"), p = "P.R.", highlight = c("rs149661977") )
 
 
 ## Q-Q plot for the selected data
-qq(da)
+qq(data1$P.R.^8)
 
 
 
@@ -45,5 +45,5 @@ data.gname = data.high %>%
   select(CHR, BP, SNP, A1, A2, N, P = P.R., OR = OR.R., GENE)
 
 
-arrange(data.gname, desc(OR))
-
+a = tibble(arrange(data.gname, CHR))
+write.csv(a, "result.csv")
