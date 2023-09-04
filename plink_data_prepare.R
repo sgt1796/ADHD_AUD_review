@@ -1,34 +1,76 @@
 #!/usr/bin/env RScript
 
 library(dplyr)
-data1 = tibble(read.csv("studyData/files/GCST007543_daner_meta_filtered_NA_iPSYCH23_PGC11_sigPCs_woSEX_2ell6sd_EUR_Neff_70.meta", sep = "\t"))
-data2 = tibble(read.csv("studyData/files/GCST008414_CUD_GWAS_iPSYCH_June2019.tsv", sep = " "))
+library(stringr)
+data1 = tibble(read.csv("studyData/files/PGC30482948_pgc_alcdep.discovery.aug2018_release.txt", sep = " "))
+data2 = tibble(read.csv("studyData/files/PGC32099098_OD_cases_vs._opioid-exposed_controls_in_the_trans-ancestry_meta-analysis", sep = "\t"))
+
+
+
+
+
+
+
 
 formatted_data1 = data1 %>%
+  filter(str_detect(.$rsid, "^rs")) %>%
   dplyr::select(
-    SNP = variant_id,
-    CHR = chromosome,
-    BP = base_pair_location,
-    A1 = effect_allele,
-    A2 = other_allele,
-    OR = beta,  # assuming that 'beta' represents the odds ratio here
-    SE = standard_error,
-    P = p_value
+    SNP = rsid,
+    CHR = chr,
+    #BP = base_pair_location,
+    A1 = a_1,
+    A2 = a_0,
+    OR = beta_P,  # assuming that 'beta' represents the odds ratio here
+    SE = se_P,
+    P = p_P
   )
+
+
+
+
+
 formatted_data2 = data2 %>%
+  rowwise() %>%
+  mutate(SNP = unlist(strsplit(SNP,":"))[1]) %>%
   dplyr::select(
-    SNP = MarkerName,
-    CHR = chromosome,
-    BP = base_pair_location,
-    A1 = effect_allele,
-    A2 = other_allele,
-    OR = beta,  # assuming that 'beta' represents the odds ratio here
-    SE = standard_error,
-    P = p_value
+    SNP = SNP,
+    CHR = CHR,
+    BP = BP,
+    A1 = A1,
+    A2 = A2,
+    OR = Z,  # assuming that 'beta' represents the odds ratio here
+    SE = Weight,
+    P = P
   )
 
 # Save the formatted data
-write.table(formatted_data1, "studyData/processed_files/GCST007543_daner_meta_filtered_NA_iPSYCH23_PGC11_sigPCs_woSEX_2ell6sd_EUR_Neff_70_processed.txt", sep = "\t", row.names = FALSE, quote = FALSE)
-write.table(formatted_data2, "studyData/processed_files/GCST008414_CUD_GWAS_iPSYCH_June2019_processed.txt", sep = "\t", row.names = FALSE, quote = FALSE)
+write.table(formatted_data1, "studyData/processed_files/PGC30336701_AUDIT_UKB_2018_AJP_processed.txt", sep = "\t", row.names = FALSE, quote = FALSE)
+write.table(formatted_data2, "studyData/processed_files/PGC30482948_pgc_alcdep.discovery.aug2018_release_processed.txt", sep = "\t", row.names = FALSE, quote = FALSE)
 
 list.files("studyData/processed_files")
+
+
+
+
+
+
+
+data2.sm = data2[1:10,]
+
+data2.sm 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

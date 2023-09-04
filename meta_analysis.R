@@ -12,7 +12,8 @@ data1 = filter(data, N >=7 & P.R. >= 1e-150 & P.R. != 0)%>%
   tidyr::drop_na()
 manhattan(data1,annotatePval = 1e-8, ylim = c(0, 10),  cex.axis = 0.9,
           col = c("blue4", "orange3"), p = "P.R.", highlight = c("rs149661977") )
-
+manhattan(filter(data1, CHR==11),annotatePval = 1e-8, ylim = c(0, 10),  cex.axis = 0.9,
+          col = c("blue4", "orange3"), p = "P.R.", highlight = c("rs149661977") )
 
 ## Q-Q plot for the selected data
 qq(data1$P.R.^8)
